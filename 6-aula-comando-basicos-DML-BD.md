@@ -65,3 +65,9 @@ DELETE FROM endereco WHERE id='15';
 ```
 DELETE FROM endereco WHERE numero='149';
 ```
+TRUNCATE (Comando DDL)
+-
+TRUNCATE remove todas as linhas da tabela, apagando todos seus registros.
+```
+TRUNCATE TABLE endereco;
+```
