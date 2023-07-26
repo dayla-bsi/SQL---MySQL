@@ -15,6 +15,24 @@ INSERT
    VALUES
    ('1', 'Pedro', 'pedro@gmail.com', '2003-12-27', 'M', 'Engenheiro de Software','75.6', '1.80', DEFAULT);
     ```
+```
+   INSERT INTO endereco VALUES
+   (DEFAULT, 'Rua Pedro Peres', '574', 'Rio Branco', '93056-030', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Afrânio Peixoto', '459', 'Duque de Caxias', '93090-010', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Alberto Bins', '254', 'Arroio', '93080-010', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Alagoas', '873', 'Arroio', '93120-140', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Alexandre Nunes', '145', 'Arroio', '95039-450', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Bento Gonçalves', '742', 'Centro', '93080-010', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua José de Alencar', '916', 'Rio Branco', '93076-030', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Olavo Bilac', '118', 'Rio Branco', '93096-030', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Acácias', '892', 'Feitoria', '93040-010', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Walter Rost', '149', 'Feitoria', '93046-010', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua José Joaquim de Paula', '975', 'Feitoria', '93036-330', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua Walter Rost', '459', 'Feitoria', '93076-010', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Av. João Corrêa', '887', 'Rio Branco', '93096-030', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua nova 1', '149', 'Centro', '90000-000', 'São Leopoldo', 'RS', 'Brasil'),
+   (DEFAULT, 'Rua nova 2', '975', 'Centro', '90000-000', 'São Leopoldo', 'RS', 'Brasil');
+  ```
 
    
 
