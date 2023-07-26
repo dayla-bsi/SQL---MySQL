@@ -71,3 +71,9 @@ TRUNCATE remove todas as linhas da tabela, apagando todos seus registros.
 ```
 TRUNCATE TABLE endereco;
 ```
+Chave estrangeira
+-
+```
+nome_da_chave INT NOT NULL,
+FOREIGN KEY (nome_da_chave) REFERENCES nome_da_tabela(id)
+```
