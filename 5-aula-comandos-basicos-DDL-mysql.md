@@ -26,7 +26,7 @@ dtNasc DATE,
 email VARCHAR(60)
 );
 ```
-Mais uma tabela, utilizando mais as constraints.
+Mais algumas tabelas, utilizando mais as constraints.
 ```
 CREATE TABLE IF NOT EXISTS pessoa(
 id INT AUTO_INCREMENT PRIMARY KEY,
@@ -39,7 +39,17 @@ altura DECIMAL (3,1),
 nacionalidade VARCHAR(20) DEFAULT 'Brasil'
 );
 ```
-
+```
+CREATE TABLE IF NOT EXISTS endereco(
+id INT AUTO_INCREMENT PRIMARY KEY,
+rua VARCHAR(50) NOT NULL,
+numero INT UNSIGNED,
+bairro VARCHAR(50) NOT NULL,
+cep VARCHAR(50) NOT NULL,
+cidade VARCHAR(50) NOT NULL,
+paisVARCHAR(50) NOT NULL
+);
+```
 ALTER
 -
 ALTER para renomear o nome de uma tabela já criada, no exemplo da tabela "pessoa" iremos alterá-la para "pessoas"
