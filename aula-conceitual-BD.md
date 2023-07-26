@@ -32,4 +32,4 @@ MySQL/MariaDB
 -
 O MySQL/MariaDB é um SGBD amplamente utilizado, que oferece uma variedade de comandos para criar, manipular e consultar bancos de dados. Neste texto, vamos explorar alguns comandos iniciais no MySQL/MariaDB que são úteis para começar a trabalhar com esse SGBDR.
 
-Para iniciar, é necessário estabelecer uma conexão com o servidor MySQL ou MariaDB. Isso pode ser feito por meio do comando mysql no terminal ou prompt de comando, seguido por informações como o nome de usuário, senha e host do servidor. 
+Para iniciar, é necessário estabelecer uma conexão com o servidor MySQL ou MariaDB. Isso pode ser feito por meio do comando mysql no terminal ou prompt de comando, seguido por informações como o nome de usuário, senha e host do servidor.
