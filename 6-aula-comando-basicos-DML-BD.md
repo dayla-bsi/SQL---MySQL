@@ -77,3 +77,12 @@ Chave estrangeira
 nome_da_chave INT NOT NULL,
 FOREIGN KEY (nome_da_chave) REFERENCES nome_da_tabela(id)
 ```
+Selecionar (SELECT) todos os registros incluindo a tabela advinda como chave estrangeira utiliza-se a claúsula JOIN (juntar) e ON(sobre)
+```
+SELECT * FROM nome_da_tabela JOIN nome_da_tabela_estrangeira ON nome_da_tabela_estrangeira.id=nome_da_tabela.nome_da_chave;
+```
+
+Selecionar (SELECT) apenas registros específicos da tabelas relacionadas
+```
+SELECT nome_da_tabela.atributo1 AS nome_da_tabela, nome_da_tabela.atributo2, nome_da_tabela.atributo3, nome_da_tabela.atributo4, nome_da_tabela_estrangeira.atributo1 AS nome_da_tabela_estrangeira, nome_da_tabela_estrangeira.atributo2, nome_da_tabela_estrangeira.atributo3 FROM nome_da_tabela JOIN  nome_da_tabela_estrangeira ON nome_da_tabela_estrangeira.ID = nome_da_tabela.nome_da_chave;
+```
