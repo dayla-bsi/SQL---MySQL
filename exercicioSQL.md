@@ -1,4 +1,4 @@
-A modelagem Entidade-Relacionamento M(ER): A modelagem ER é uma técnica visual para representar as entidades e seus relacionamentos no sistema. Nesse caso, a modelagem pode incluir entidades como "Pacientes", "Médicos", "Endereço", "Consulta", "Exame",  e "Medicamento". Considerando seu diagrama implemente via SQL, utilizando O SGBD MySQL/MariaDB as criaçoes (CREATE) das tabelas, seus seus atributos e relacionamentos.
+A modelagem Entidade-Relacionamento M(ER): A modelagem ER é uma técnica visual para representar as entidades e seus relacionamentos no sistema. Nesse caso, a modelagem pode incluir entidades como "Pacientes", "Médicos", "Endereço", "Consulta", "Exame",  e "Medicamento". Considerando seu diagrama implemente via SQL, utilizando O SGBD MySQL/MariaDB as criaçoes (CREATE) das tabelas, seus atributos e relacionamentos.
 
 1) Altere (ALTER) o nome da tabela "Pacientes" para "Paciente";
 2) Adicione na tabela "Endereco" depois da coluna "Numero" a coluna "Complemento";
