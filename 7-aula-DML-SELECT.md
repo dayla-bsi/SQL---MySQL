@@ -32,5 +32,5 @@ INSERT INTO cursos VALUES
 SELECT
 -
 ```
-SELECT * FROM cursos;
+SELECT * FROM cursos; 
 ```
