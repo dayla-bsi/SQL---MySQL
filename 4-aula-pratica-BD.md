@@ -69,14 +69,21 @@ Constraint são utilizadas para especificar regras de armazenamentos de dados na
 TIPOS:
 
 NOT NULL: Garante que uma coluna não recebera valor nulo.
+
 UNIQUE: Garante que o valores em uma coluna sejam únicos. Exemplo: cpf.
+
 PRIMARY KEY (Chave primária): Chave unica, linha exclusiva que representa cada registro/linha/tupla da tabela
+
 FOREIGN KEY (Chave estrangeira): estabelece o relacionamento entre duas tabelas, transportando o id de uma tabela para a tabela que recebe o relacionamento.
+
 DEFAULT: Define um valor padrão para uma coluna quando nenhum valor é especificado. Ex.  no campo pais posso definir no script para todos como 'Brasil', consequentemente, já fica inserido automaticamente na tabela.
+
 INDEX: Usado para criar e recuperar dados do banco de dados com melhor performance.
 
 PARA ATRIBUTOS NÚMERICOS:
 
 UNSIGNED: impede que a coluna que tenha o tipo de dado inteiro armazene números negativos. Quando omitimos o atributo UNSIGNED em uma coluna de tipos de dados numéricos, seu padrão é SIGNED, permitirá valores negativos.
+
 ZEROFILL: provoca efeitos de autopreenchimento de espaços não utilizados em uma coluna com zeros.
+
 AUTO_INCREMENT: é bastante utilizado para gerar chave primária, isto é, gerando automaticamente um identificador único.
