@@ -14,3 +14,15 @@ READ (SELECT)
 UPDATE (ATUALIZAR)
 
 DELETE (APAGAR)
+
+DEFINIÇÃO DE LINGUAGEM
+-
+A linguagem SQL é dividida em quatro tipos de instruções de linguagem primárias:
+
+DDL - Data Manipulation Language
+
+DML - Data Definition Language
+
+DCL - Data Definition Language
+
+TCL - Transaction Control Language
