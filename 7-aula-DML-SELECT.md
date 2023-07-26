@@ -53,3 +53,11 @@ ORDER BY nome DESC;
 SELECT * FROM cursos
 ORDER BY ano DESC; 
 ```
+OBSERVAÇÃO: O desc utilizado acima é como parâmetro do SELECT que significa "descendent". Porém, o DESC utilizado como comando SQL significa "describe", ou seja, descreve uma tabela, como no exemplo a seguir:
+```
+DESCRIBE cursos;
+```
+OU
+```
+DESC cursos;
+```
