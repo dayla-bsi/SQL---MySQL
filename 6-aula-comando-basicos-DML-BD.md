@@ -15,7 +15,8 @@ INSERT
    VALUES
    ('1', 'Pedro', 'pedro@gmail.com', '2003-12-27', 'M', 'Engenheiro de Software','75.6', '1.80', DEFAULT);
     ```
-```
+
+    ```
    INSERT INTO endereco VALUES
    (DEFAULT, 'Rua Pedro Peres', '574', 'Rio Branco', '93056-030', 'São Leopoldo', 'RS', 'Brasil'),
    (DEFAULT, 'Rua Afrânio Peixoto', '459', 'Duque de Caxias', '93090-010', 'São Leopoldo', 'RS', 'Brasil'),
