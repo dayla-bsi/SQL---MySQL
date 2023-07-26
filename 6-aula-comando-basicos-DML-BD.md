@@ -10,5 +10,5 @@ DML - Data Manipulation Language (LINGUAGEM DE MANIPULAÇÃO DE DADOS)
    INSERT INTO pessoa
    (id, nome, dtNasc, genero, peso, altura, nacionalidade)
    VALUES
-   ('1', 'Pedro', 'pedro@gmail.com', '2003-12-27', 'M', '75.6', '1.80', DEFAULT);
+   ('1', 'Pedro', 'pedro@gmail.com', '2003-12-27', 'M', 'Engenheiro de Software','75.6', '1.80', DEFAULT);
    
