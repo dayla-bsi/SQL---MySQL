@@ -1,5 +1,5 @@
-Banco de dados 
-
+Banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
+--
 Existem diferentes tipos de bancos de dados, incluindo:
 1) Bancos de dados relacionais: Utilizam o modelo relacional e armazenam dados em tabelas com esquemas predefinidos. São baseados na linguagem SQL (Structured Query Language).
 2) Bancos de dados NoSQL: Utilizam modelos não relacionais e são mais flexíveis em termos de esquema e estrutura de dados.
