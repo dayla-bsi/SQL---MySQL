@@ -35,3 +35,21 @@ O SELECT * com asteriscos seleciona TODOS os registros/linhas e colunas FROM (da
 ```
 SELECT * FROM cursos; 
 ```
+O comando SELECT * from cursos, irá ordenar a tabela por ordem crescente do ID, mas para ordenar por qualquer outra coluna, colocvamos o ORDER BY e o nome da coluna:
+```
+SELECT * FROM cursos
+ORDER BY nome; 
+```
+```
+SELECT * FROM cursos
+ORDER BY ano; 
+```
+Se quiser ordenar em ordem decrescente utiliza-se a palavra DESC:
+```
+SELECT * FROM cursos
+ORDER BY nome DESC; 
+```
+```
+SELECT * FROM cursos
+ORDER BY ano DESC; 
+```
