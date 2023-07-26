@@ -55,3 +55,13 @@ UPDATE
 O UPDATE atualiza registros na tabela utilizando a palavra SET mdeiante alguma condição específica definida pela palavra WHERE.
 ```
 UPDATE pessoas SET nome = 'João' WHERE id='1';
+```
+DELETE
+-
+O DELETE exclui registros na tabela utilizando alguma condição específica definida pela palavra WHERE.
+```
+DELETE FROM endereco WHERE id='15';
+```
+```
+DELETE FROM endereco WHERE numero='149';
+```
