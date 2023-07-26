@@ -35,7 +35,7 @@ O uso dos nomes dos campos/colunas entre parênteses é opcional colocá-los, o 
    (DEFAULT, 'Av. João Corrêa', '887', 'Rio Branco', '93096-030', 'São Leopoldo', 'RS', 'Brasil'),
    (DEFAULT, 'Rua nova 1', '149', 'Centro', '90000-000', 'São Leopoldo', 'RS', 'Brasil'),
    (DEFAULT, 'Rua nova 2', '975', 'Centro', '90000-000', 'São Leopoldo', 'RS', 'Brasil');
-  ```
+    ```
 
    
 
