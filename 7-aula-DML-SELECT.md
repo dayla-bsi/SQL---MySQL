@@ -19,14 +19,16 @@ INSERT INTO cursos VALUES
 (DEFAULT, 'Engenharia de Controle e Automação', '3810', '2017'),
 (DEFAULT, 'Engenharia de telecomunicações', '3800', '2018'),
 (DEFAULT, 'Sistemas para Internet', '1800', '2018'),
-(DEFAULT, 'Ciência de Dados', '1100', '2021'),
+(DEFAULT, 'Ciência de Dados', '1100', '2022'),
 (DEFAULT, 'Técnico em Informática para a Internet', '950', '2021'),
 (DEFAULT, 'Técnico em Informática', '800', '2015'),
 (DEFAULT, 'Medicina', '4500', '2015'),
 (DEFAULT, 'Farmacia', '3500', '2016'),
-(DEFAULT, 'Odontologia', '3400', '2016'),
+(DEFAULT, 'Odontologia', '3400', '2020'),
 (DEFAULT, 'Enfermagem', '3300', '2015'),
-(DEFAULT, 'Nutrição', '3200', '2017');
+(DEFAULT, 'Nutrição', '3200', '2020'),
+(DEFAULT, 'Psicologia', '33240', '2022'),
+(DEFAULT, 'EDucação Física', '2897', '2022');
 ```
 
 SELECT
@@ -61,8 +63,7 @@ OU
 ```
 DESC cursos;
 ```
-Até agora utilizamos o SELECT * FROM, ou seja, exibindo todas as colunas. A seguir trabalharemos o SELECT com filtros. Isto porque nem todas as vezes que queremos fazer umas busca precisamos da base de dados inteira, então você pode filtrar para mostrar somente aquelas colunas que você precisa. No exemplo, não quero selecionar todas as colunas da tabela "cursos" mas somente as colunas nome e ano, e, ainda assim, também continuar ordenando-as. Tira o * e coloca as colunas que você quer que apareça.
-
+Até agora utilizamos o SELECT * FROM, ou seja, exibindo todas as colunas. A seguir trabalharemos o SELECT com filtros. Isto porque nem todas as vezes que queremos fazer umas busca precisamos da base de dados inteira, então você pode filtrar para mostrar somente aquelas colunas que você precisa. No exemplo, não quero selecionar todas as colunas da tabela "cursos" mas somente as colunas nome e ano, e, ainda assim, também continuar ordenando-as. Tira o * e elimina as colunas que não fazem parte da query (query: pergunta/solicitação)
 ```
 SELECT nome, ano FROM cursos
 ORDER BY nome;
@@ -73,9 +74,51 @@ SELECT ano, nome FROM cursos
 ORDER BY ano, nome;
 ```
 
-Se quisermos filtrar as linhas, ou seja, exibir somente tais registros, utilizamos a claúsula WHERE. POr exemplo, selecione todos os campos (SELECT * FROM) da tabela cursos onde o ano seja igual a 2017:
+Se quisermos filtrar as linhas, ou seja, exibir somente tais registros, utilizamos a claúsula WHERE como uma condição, como expressão relacional (algoritmo). Por exemplo, selecione todos os campos (SELECT * FROM) da tabela cursos onde o ano seja igual a 2017:
 ```
 SELECT * FROM cursos
 WHERE ano='2017'
 ORDER BY nome; 
+```
+```
+SELECT nome, ano FROM cursos
+WHERE ano='2017'
+ORDER BY nome; 
+```
+Na cláusula WHERE podemos utilizar operadores condicionais: > (maior que), => (maior igual que), < (menor que), <= (menor igual que), =(igual) e !=(diferente).
+
+```
+SELECT nome, ano FROM cursos
+WHERE ano <='2019'
+ORDER BY nome; 
+```
+```
+SELECT nome, ano FROM cursos
+WHERE ano < '2019'
+ORDER BY nome; 
+```
+
+```
+SELECT nome, ano FROM cursos
+WHERE ano > '2019'
+ORDER BY nome; 
+```
+```
+SELECT nome, ano FROM cursos
+WHERE ano != '2019'
+ORDER BY nome; 
+```
+
+Além dos operadores relacionais básicos que acabamos de ver, existem outros, vamos ver alguns deles. O primeiro será o BETWEEN essa palavra quer dizer entre, ou seja, selecionete os registros entre um registro e outro. Por exemplo, quero selecionar todos os registros em cursos que estão entre os anos 2019 e 2021
+
+```
+SELECT nome, ano FROM cursos
+WHERE ano BETWEEN 2019 AND 2021
+ORDER BY nome; 
+```
+Além do BETWEEN temos outro operador chamado IN no IN podemos colocar valores específicos. Por exemplo, quero selecionar os anos de 2017, 2021, 2022 de uma coluna ano da tabela cursos.
+```
+SELECT ano, nome FROM cursos
+WHERE ano IN (2019, 2021, 2022)
+ORDER BY ano; 
 ```
