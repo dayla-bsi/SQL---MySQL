@@ -1,2 +1,2 @@
 # sql
-aulas-senac
+aulas-banco-de-dados-MYSQL/MariaDB
