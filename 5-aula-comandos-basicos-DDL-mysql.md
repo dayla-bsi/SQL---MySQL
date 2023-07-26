@@ -19,7 +19,12 @@ USE meu_banco_de_dados;
 ```
 Criar uma nova tabela: após criar o banco de dados, você pode criar uma nova tabela usando o comando:
 ```
-CREATE TABLE minha_tabela;
+CREATE TABLE minha_tabela(
+id INT AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(50),
+dtNasc DATE,
+email VARCHAR(60)
+);
 ```
 ALTER
 -
