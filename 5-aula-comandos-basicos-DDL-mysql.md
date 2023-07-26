@@ -15,5 +15,17 @@ Selecionar um banco de dados: Para começar a trabalhar com um banco de dados es
 
 USE meu_banco_de_dados;
 
+Criar uma nova tabela: após criar o banco de dados, você pode criar uma nova tabela usando o comando:
+
+CREATE TABLE minha_tabela;
+
 ALTER
 -
+
+DROP
+-
+Excluir um banco de dados: o comando DROP DATABASE exclui permanentemente um banco de dados:
+DROP DATABASE meu_banco_de_dados;
+
+Excluir uma tabela: o comando DROP TABLE exclui permanentemente uma tabela:
+DROP TABLE minha_tabela;
