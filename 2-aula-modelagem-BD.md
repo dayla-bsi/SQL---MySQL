@@ -5,8 +5,7 @@ Para a modelagem conceitual vamos usar essa notação: Modelagem Entidade-Relaci
 
 A notação de Peter Chen é uma das notações mais conhecidas e utilizadas para a MER. Nessa notação, os principais elementos são representados da seguinte forma:
 
- 
- Entidade: Representada por um retângulo com o nome da entidade dentro. Uma entidade representa um objeto do mundo real sobre o qual deseja-se armazenar informações. Por exemplo, uma entidade pode ser "Cliente", "Produto", "Funcionário", etc.
+$$Entidade: Representada por um retângulo com o nome da entidade dentro. Uma entidade representa um objeto do mundo real sobre o qual deseja-se armazenar informações. Por exemplo, uma entidade pode ser "Cliente", "Produto", "Funcionário", etc.
 
 Atributo: Representado por um oval e é colocado dentro do retângulo da entidade correspondente. Os atributos representam as características ou propriedades das entidades. Por exemplo, um atributo da entidade "Cliente" pode ser "Nome", "Endereço", "Telefone", etc.
 
