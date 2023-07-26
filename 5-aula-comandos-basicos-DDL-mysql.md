@@ -26,6 +26,20 @@ dtNasc DATE,
 email VARCHAR(60)
 );
 ```
+Mais uma tabela
+```
+CREATE TABLE IF NOT EXISTS pessoa(
+id INT AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(50) NOT NULL,
+email VARCHAR(60) NOT NULL,
+dtNasc DATE NOT NULL,
+genero ENUM('M', 'F'),
+peso DECIMAL (5,2),
+altura DECIMAL (3,1),
+nacionalidade VARCHAR(20) DEFAULT 'Brasil'
+);
+```
+
 ALTER
 -
 
