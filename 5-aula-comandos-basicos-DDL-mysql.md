@@ -26,7 +26,7 @@ dtNasc DATE,
 email VARCHAR(60)
 );
 ```
-Mais uma tabela
+Mais uma tabela, utilizando mais as constraints.
 ```
 CREATE TABLE IF NOT EXISTS pessoa(
 id INT AUTO_INCREMENT PRIMARY KEY,
@@ -42,6 +42,26 @@ nacionalidade VARCHAR(20) DEFAULT 'Brasil'
 
 ALTER
 -
+ALTER em uma tabela para adicionar uma nova coluna:
+```
+ALTER TABLE pessoa ADD COLUMN profissao VARCHAR(30);
+```
+ALTER em uma tabela para excluir uma nova coluna:
+```
+ALTER TABLE pessoa DROP COLUMN profissao;
+```
+ALTER em uma tabela para adicionar uma nova coluna em um local específico na tabela, no exemplo a seguir, colocaremos na tabela a coluna "profissao" depois da coluna "genero" na tabela:
+```
+ALTER TABLE pessoa ADD COLUMN profissao VARCHAR(30) AFTER genero;
+```
+Se AFTER é depois então BEFORE é antes, correto? NÃO! Para adicionar na primeira coluna utilizamos o FIRST, logo, qualquer coluna depois da primeira pode ser trabalhada com AFTER. Exemplo  de uma coluna sendo adicionada como primeira coluna:
+```
+ALTER TABLE pessoa ADD COLUMN cod int FIRST;
+```
+ALTER em uma tabela para modificar os tipos primitivos e constraints das colunas. Por exemplo, na coluna "profissão" quando inserido os dados referentes a "profissão" o número de caracteres ultrapassa o tamanho definido no tipo VARCHAR(20), então modificamos os tipos primitivos e constraints usando MODIFY :
+```
+ALTER TABLE pessoa MODIFY COLUMN profissao VARCHAR(50);
+```
 
 DROP
 -
