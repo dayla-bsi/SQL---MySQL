@@ -15,6 +15,8 @@ INSERT
    VALUES
    ('1', 'Pedro', 'pedro@gmail.com', '2003-12-27', 'M', 'Engenheiro de Software','75.6', '1.80', DEFAULT);
     ```
+teste
+
 
     ```
    INSERT INTO endereco VALUES
