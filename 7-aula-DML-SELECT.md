@@ -61,3 +61,21 @@ OU
 ```
 DESC cursos;
 ```
+Até agora utilizamos o SELECT * FROM, ou seja, exibindo todas as colunas. A seguir trabalharemos o SELECT com filtros. Isto porque nem todas as vezes que queremos fazer umas busca precisamos da base de dados inteira, então você pode filtrar para mostrar somente aquelas colunas que você precisa. No exemplo, não quero selecionar todas as colunas da tabela "cursos" mas somente as colunas nome e ano, e, ainda assim, também continuar ordenando-as. Tira o * e coloca as colunas que você quer que apareça.
+
+```
+SELECT nome, ano FROM cursos
+ORDER BY nome;
+```
+Podemos também mudar as ordens das colunas, se quiser também ordenar por ano e depois também ordenar por nome:
+```
+SELECT ano, nome FROM cursos
+ORDER BY ano, nome;
+```
+
+Se quisermos filtrar as linhas, ou seja, exibir somente tais registros, utilizamos a claúsula WHERE. POr exemplo, selecione todos os campos (SELECT * FROM) da tabela cursos onde o ano seja igual a 2017:
+```
+SELECT * FROM cursos
+WHERE ano='2017'
+ORDER BY nome; 
+```
