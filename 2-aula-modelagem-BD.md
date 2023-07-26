@@ -15,7 +15,6 @@ Cardinalidade: A cardinalidade é indicada próxima às linhas do relacionamento
 
 Chave Primária (Primary Key): Em algumas representações, a chave primária é representada por um traço e na ponta um circulo preto ao lado do retângulo da entidade. A chave primária é um atributo que identifica exclusivamente cada instância da entidade. Ela é usada para garantir a unicidade dos registros na tabela correspondente no banco de dados.
 
-
-
+A modelagem Entidade-Relacionamento na notação de Peter Chen é uma abordagem poderosa para representar a estrutura e as relações de um banco de dados. Ela ajuda a visualizar de forma clara e intuitiva as entidades envolvidas e como elas se conectam. Lembre-se de que essa é apenas uma introdução básica e existem muitos outros elementos e conceitos avançados na modelagem ER.
 
 
