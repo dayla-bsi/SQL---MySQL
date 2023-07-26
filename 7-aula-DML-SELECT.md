@@ -31,6 +31,7 @@ INSERT INTO cursos VALUES
 
 SELECT
 -
+O SELECT * com asteriscos seleciona TODOS os registros/linhas e colunas FROM (da) tabela e os exibe.
 ```
 SELECT * FROM cursos; 
 ```
