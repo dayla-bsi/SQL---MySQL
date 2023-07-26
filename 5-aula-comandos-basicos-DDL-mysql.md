@@ -9,7 +9,9 @@ CREATE
 -
 Criar um novo banco de dados: Após estabelecer a conexão, você pode criar um novo banco de dados usando o comando CREATE DATABASE. Por exemplo, para criar um banco de dados chamado "meu_banco_de_dados", você pode executar o seguinte comando:
 
+```
 CREATE DATABASE meu_banco_de_dados;
+```
 
 Selecionar um banco de dados: Para começar a trabalhar com um banco de dados específico, você precisa selecioná-lo usando o comando USE. Por exemplo, para selecionar o banco de dados "meu_banco_de_dados", use o seguinte comando:
 
