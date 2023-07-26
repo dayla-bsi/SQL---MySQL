@@ -8,4 +8,4 @@ A modelagem Entidade-Relacionamento M(ER): A modelagem ER é uma técnica visual
 6)  Utilizando a claúsula SELECT selecione e exiba da tabela "Consultas" todos os seus registros;
 7)  Utilizando a claúsula SELECT selecione e exiba da tabela "Consultas" somente o nome dos Pacientes, dos Medicos, e a data da consulta;
 8)  Delete a tabela Exames;
-9)  Atualize o nome do Paciente do Registro de ID= 5;
+9)  Atualize (UPDATE) o nome do Paciente do Registro de ID= 5;
