@@ -18,7 +18,7 @@ INSERT
 O uso dos nomes dos campos/colunas entre parênteses é opcional colocá-los, o DEFAULT na coluna id, é referenciado o valor já inserido na tabela através do AUTO_INCREMENT utilizado na coluna id (PRIMARY KEY/CHAVE PRIMÁRIA) :
 
 
-    ```
+   ```
    INSERT INTO endereco VALUES
    (DEFAULT, 'Rua Pedro Peres', '574', 'Rio Branco', '93056-030', 'São Leopoldo', 'RS', 'Brasil'),
    (DEFAULT, 'Rua Afrânio Peixoto', '459', 'Duque de Caxias', '93090-010', 'São Leopoldo', 'RS', 'Brasil'),
@@ -35,7 +35,7 @@ O uso dos nomes dos campos/colunas entre parênteses é opcional colocá-los, o 
    (DEFAULT, 'Av. João Corrêa', '887', 'Rio Branco', '93096-030', 'São Leopoldo', 'RS', 'Brasil'),
    (DEFAULT, 'Rua nova 1', '149', 'Centro', '90000-000', 'São Leopoldo', 'RS', 'Brasil'),
    (DEFAULT, 'Rua nova 2', '975', 'Centro', '90000-000', 'São Leopoldo', 'RS', 'Brasil');
-    ```
+```
 
    
 
