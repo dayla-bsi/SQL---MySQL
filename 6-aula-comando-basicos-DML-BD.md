@@ -8,6 +8,7 @@ DML - Data Manipulation Language (LINGUAGEM DE MANIPULAÇÃO DE DADOS)
 INSERT
 -
    INSERT para inserir dados em uma tabela, utilizamos junto com o INSERTO o INTO, definindo entre parênteses todas as colunas existentes na tabela em questão e que receberão os dados utilizando a palavra VALUES, cada dado inserido a sua respectiva coluna, deve está dentro escrito dentro de aspas simples, o dado "DEFAULT" na última columa representa que a coluna já tem uma dado previamente definido na criação da tabela, isto é, 'Brasil':
+   
    ```
    INSERT INTO pessoas
    (id, nome, email, dtNasc, genero, peso, altura, nacionalidade)
@@ -15,7 +16,8 @@ INSERT
    ('1', 'Pedro', 'pedro@gmail.com', '2003-12-27', 'M', 'Engenheiro de Software','75.6', '1.80', DEFAULT);
     ```
    O uso dos nomes dos campos/colunas entre parênteses é opcional colocá-los, o DEFAULT na coluna id, é referenciado o valor já inserido na tabela através do AUTO_INCREMENT utilizado na coluna id (PRIMARY KEY/CHAVE PRIMÁRIA) :
-  ```   
+
+     ```
    INSERT INTO endereco VALUES
    (DEFAULT, 'Rua Pedro Peres', '574', 'Rio Branco', '93056-030', 'São Leopoldo', 'RS', 'Brasil'),
    (DEFAULT, 'Rua Afrânio Peixoto', '459', 'Duque de Caxias', '93090-010', 'São Leopoldo', 'RS', 'Brasil'),
