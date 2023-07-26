@@ -15,7 +15,9 @@ INSERT
    VALUES
    ('1', 'Pedro', 'pedro@gmail.com', '2003-12-27', 'M', 'Engenheiro de Software','75.6', '1.80', DEFAULT);
     ```
+
    O uso dos nomes dos campos/colunas entre parênteses é opcional colocá-los, o DEFAULT na coluna id, é referenciado o valor já inserido na tabela através do AUTO_INCREMENT utilizado na coluna id (PRIMARY KEY/CHAVE PRIMÁRIA) :
+
 
      ```
    INSERT INTO endereco VALUES
