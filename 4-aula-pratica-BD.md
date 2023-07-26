@@ -37,3 +37,13 @@ São usadas para definir a estrutura de Banco de Dados ou esquema. Alguns exempl
 3) DROP: apaga objeto no banco de dados, o próprio banco de dados, tabelas, indexes, procedures, views, functions e triggers.
 4) TRUNCATE: remover todos os registros de uma tabela, inclusive, todos os espaços alocados para uma tabela serão removidos.
 
+DML - Data Manipulation Language
+-
+Os comandos DML são utilizados para o gerenciamento de dados dentro de objetos do banco. Alguns exemplos:
+
+1) SELECT: recuperar dados do banco de dados.
+2) INSERT: inserir dados em uma tabela.
+3) UPDATE: atualiza os dados existentes em uma tabela.
+4) DELETE: exclui registros de uma tabela.
+
+
