@@ -42,6 +42,10 @@ nacionalidade VARCHAR(20) DEFAULT 'Brasil'
 
 ALTER
 -
+ALTER para renomear o nome de uma tabela já criada, no exemplo da tabela "pessoa" iremos alterá-la para "pessoas"
+```
+ALTER TABLE pessoa RENAME TO pessoas;
+```
 ALTER em uma tabela para adicionar uma nova coluna:
 ```
 ALTER TABLE pessoa ADD COLUMN profissao VARCHAR(30);
@@ -62,7 +66,10 @@ ALTER em uma tabela para modificar os tipos primitivos e constraints das colunas
 ```
 ALTER TABLE pessoa MODIFY COLUMN profissao VARCHAR(50);
 ```
-
+Se o ALTER TABLE utilizando MODIFY modifica os tipos primitivos e constraints, para o próprio nome da coluna, por exemplo, quero alterar a coluna "profissao" para "cargo", então usamos a palavra CHANGE:
+```
+ALTER TABLE pessoa CHANGE profissao cargo VARCHAR(50);
+```
 DROP
 -
 Excluir um banco de dados: o comando DROP DATABASE exclui permanentemente um banco de dados:
