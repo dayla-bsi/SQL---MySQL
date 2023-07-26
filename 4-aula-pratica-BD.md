@@ -6,7 +6,11 @@ para processamento de fluxo de dados em um sistema de gerenciamento de fluxo de 
 Conceitos CRUD 
 -
 CRUD é um acrônimo para as quatro operações básicas de um Banco de Dados.
+
 CREATE (CRIAR)
+
 READ (SELECT)
+
 UPDATE (ATUALIZAR)
+
 DELETE (APAGAR)
