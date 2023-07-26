@@ -29,7 +29,7 @@ TCL - Transaction Control Language
 
 
 DDL - Data Definition Language
--
+---
 São usadas para definir a estrutura de Banco de Dados ou esquema. Alguns exemplos:
 
 1) CREATE: para criar objetos no banco de dados, o próprio banco de dados, tabelas, indexes, procedures, views, functions e triggers.
@@ -38,7 +38,7 @@ São usadas para definir a estrutura de Banco de Dados ou esquema. Alguns exempl
 4) TRUNCATE: remover todos os registros de uma tabela, inclusive, todos os espaços alocados para uma tabela serão removidos.
 
 DML - Data Manipulation Language
--
+---
 Os comandos DML são utilizados para o gerenciamento de dados dentro de objetos do banco. Alguns exemplos:
 
 1) SELECT: recuperar dados do banco de dados.
@@ -46,4 +46,19 @@ Os comandos DML são utilizados para o gerenciamento de dados dentro de objetos 
 3) UPDATE: atualiza os dados existentes em uma tabela.
 4) DELETE: exclui registros de uma tabela.
 
+DCL - Data Control Language
+---
+São usadas para definir acesso/controle dos dados/objetos.
+
+1) GRANT: atribui os privilégios de acesso do usuário a objetos do banco de dados.
+2) REVOKE: remove os privilégios de acesso aos objetos obtidos com o comando GRANT.
+
+TCL - Transaction Control Language
+---
+São usados para gerenciar as mudanças feitas por instruções DML. Ele permite que as declarações a serem agrupadas em transções lógicas.
+
+1) BEGIN TRANSACTION: inicia uma transação.
+2) COMMIT: salvar o trabalho feito.
+3) SAVE TRANSACTION: identificar um ponto em uma transação para que mais tarde você possa efetuar um ROLLBACK.
+4) ROLLBACK: restaurar o banco de dados ao original desde o último COMMIT.
 
