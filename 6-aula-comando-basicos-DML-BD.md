@@ -42,7 +42,7 @@ O uso dos nomes dos campos/colunas entre parênteses é opcional colocá-los, o 
 SELECT
 -
 
-Vejamos alguns dos muitos comandos SELECT. O SELECT *(asterisco) significa que todos os registros da tabela serão exibidos, depois do asterisco coplocamos a palavra FROM (de) que remete a tabela que irá ser trabalhada
+Vejamos alguns dos muitos comandos SELECT. O SELECT *(asterisco) significa que todos os registros da tabela serão exibidos, depois do asterisco coplocamos a palavra FROM (da) tabela que irá ser trabalhada.
  ```
 SELECT * FROM pessoas;
 ```
