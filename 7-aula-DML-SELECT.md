@@ -4,7 +4,7 @@ Antes vamos criar (CREATE) e inserir (INSERT) dados em mais uma tabela para trab
 ```
 CREATE TABLE IF NOT EXISTS cursos(
 id INT AUTO_INCREMENT PRIMARY KEY,
-nome VARCAHR(20) NOT NULL,
+nome VARCHAR(20) NOT NULL,
 carga INT UNSIGNED,
 ano INT UNSIGNED
 );
