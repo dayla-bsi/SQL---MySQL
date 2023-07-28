@@ -25,4 +25,11 @@ teste
 ```
 UPDATE alunos SET nome='Luiz Henrique Silva'
 WHERE id='1';
+```
+
+TESTED
+
+```
+DELETE FROM alunos WHERE matricula='458';
+```
 
