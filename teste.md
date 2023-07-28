@@ -34,6 +34,9 @@ DELETE FROM alunos WHERE matricula='458';
 ```
 
 ```
-SELECT *FROM alunos;
+SELECT * FROM alunos;
+```
+```
+SELECT nome, matricula FROM alunos;
 ```
 
