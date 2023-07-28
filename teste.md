@@ -21,4 +21,8 @@ INSERT INTO alunos VALUES
 (DEFAULT, 'Gustavo José', '457', '1996-09-25', '***.***.333-03'),
 (DEFAULT, 'Matheus Henrique', '458', '2005-08-25', '***.***.444-04');
 ```
+teste
+```
+UPDATE alunos SET nome='Luiz Henrique Silva'
+WHERE id='1';
 
