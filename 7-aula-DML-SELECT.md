@@ -1,6 +1,6 @@
-Nessa aula, vamos aprender a usar o comando mais famoso da SQL: o SELECT.
+Nessa aula, vamos aprender a usar mais o comando famoso da SQL: o SELECT.
 
-Antes vamos criar (CREATE) e inserir (INSERT) dados em mais uma tabela para trabalharmos
+Antes vamos criar (CREATE) e inserir (INSERT) dados em mais uma tabela para trabalharmos:
 ```
 CREATE TABLE IF NOT EXISTS cursos(
 id INT AUTO_INCREMENT PRIMARY KEY,
@@ -33,11 +33,11 @@ INSERT INTO cursos VALUES
 
 SELECT
 -
-O SELECT * com asteriscos seleciona TODOS os registros/linhas e colunas FROM (da) tabela e os exibe.
+O SELECT * (com asteriscos) seleciona TODOS os registros/linhas e colunas FROM (da) tabela e os exibe.
 ```
 SELECT * FROM cursos; 
 ```
-O comando SELECT * from cursos, irá ordenar a tabela por ordem crescente do ID, mas para ordenar por qualquer outra coluna, colocvamos o ORDER BY e o nome da coluna:
+O comando SELECT * from cursos, irá ordenar a tabela por ordem crescente do ID, mas para ordenar por qualquer outra coluna, colocamos o ORDER BY e o nome da coluna que desejamos ordenar:
 ```
 SELECT * FROM cursos
 ORDER BY nome; 
@@ -63,7 +63,7 @@ OU
 ```
 DESC cursos;
 ```
-Até agora utilizamos o SELECT * FROM, ou seja, exibindo todas as colunas. A seguir trabalharemos o SELECT com filtros. Isto porque nem todas as vezes que queremos fazer umas busca precisamos da base de dados inteira, então você pode filtrar para mostrar somente aquelas colunas que você precisa. No exemplo, não quero selecionar todas as colunas da tabela "cursos" mas somente as colunas nome e ano, e, ainda assim, também continuar ordenando-as. Tira o * e elimina as colunas que não fazem parte da query (query: pergunta/solicitação)
+Até agora utilizamos mais vezes o SELECT * FROM, ou seja, exibindo todas as colunas. A seguir, trabalharemos o SELECT com filtros. Isto porque nem todas as vezes que queremos fazer uma busca precisamos da base de dados inteira, então você pode filtrar para mostrar somente aquelas colunas que você precisa. No exemplo, não quero selecionar todas as colunas da tabela "cursos" mas somente as colunas nome e ano, e, ainda assim, também continuar ordenando-as. Então tira o * sendo assim, elimina as colunas que não fazem parte da query (query: pergunta/solicitação)
 ```
 SELECT nome, ano FROM cursos
 ORDER BY nome;
@@ -74,7 +74,7 @@ SELECT ano, nome FROM cursos
 ORDER BY ano, nome;
 ```
 
-Se quisermos filtrar as linhas, ou seja, exibir somente tais registros, utilizamos a claúsula WHERE como uma condição, como expressão relacional (algoritmo). Por exemplo, selecione todos os campos (SELECT * FROM) da tabela cursos onde o ano seja igual a 2017:
+Se quisermos filtrar as linhas, ou seja, exibir somente tais registros, utilizamos a claúsula WHERE que significa "onde" como sendo uma condição, isto é, como expressão relacional (algoritmo). Por exemplo, selecione todos os campos (SELECT * FROM) da tabela cursos "onde" o ano seja igual a 2017:
 ```
 SELECT * FROM cursos
 WHERE ano='2017'
@@ -129,12 +129,12 @@ ORDER BY ano;
 ```
 Cláusula LIKE
 -
-Em SQL LIKE significa "parecido" e não "gostar/curtir (redes sociais)".Exemplo: se quiser mostrar todos os cursos ta tabela que começam com a letra "E". Lembrando que LIKE é case sensitive, ou seja, não tem diferença entrev maiusculo e minusculo, como no exemplo entre 'E' e 'e'.
+Em SQL LIKE significa "parecido" e não "gostar/curtir (redes sociais)".Exemplo: se quiser mostrar todos os cursos da tabela que começam com a letra "E". Lembrando que LIKE é case sensitive, ou seja, não tem diferença entre maiusculo e minusculo, como no exemplo entre 'E' e 'e'.
 ```
 SELECT * FROM cursos
 WHERE nome LIKE 'E%'; 
 ```
-Outro exemplo,se quiser mostrar todos os cursos ta tabela que terminam com a letra "A"
+Outro exemplo,se quiser mostrar todos os cursos da tabela que terminam com a letra "A"
 ```
 SELECT * FROM cursos
 WHERE nome LIKE '%A'; 
@@ -146,7 +146,7 @@ WHERE nome LIKE '%Engenharia%';
 ```
 Cláusula DISTINCT
 -
-O DISTINCT serve para distinguir registros. Na tabela terá colunas com várias ocorrências iguias, por exemplo, carga horária de curso, tem curso que tem a mesma carga horária. Mas, se eu quiser visualizar somente os tipos de carga horária, utilizo a claúsula DISTINCT.
+O DISTINCT serve para distinguir registros. Na tabela terá colunas com várias ocorrências iguais, por exemplo, carga horária de curso, tem curso que tem a mesma carga horária. Mas, se eu quiser visualizar somente os tipos de carga horária, utilizo a claúsula DISTINCT.
 ```
 SELECT carga * FROM cursos;
 ```
@@ -157,11 +157,11 @@ Funções de agregações
 -
 Serve para selecionar ou totalizar alguma coisa. Se eu quiser saber quantos cursos eu tenho cadastrados, somente com o comando "SELECT * FROM cursos" terei que contar manualmente.
 ```
-SELECT COUNT(*) FROM cursos;
+SELECT COUNT(*) FROM cursos
 WHERE nome LIKE '%Engenharia%'; 
 ```
 ```
-SELECT COUNT(*) FROM cursos;
+SELECT COUNT(*) FROM cursos
 WHERE carga > 3000; 
 ```
 
