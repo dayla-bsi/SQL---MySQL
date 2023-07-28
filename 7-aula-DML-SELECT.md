@@ -90,7 +90,7 @@ SELECT nome, ano FROM cursos
 WHERE ano='2017'
 ORDER BY nome; 
 ```
-Na cláusula WHERE podemos utilizar operadores condicionais: > (maior que), => (maior igual que), < (menor que), <= (menor igual que), =(igual) e !=(diferente).
+Na clausula WHERE podemos utilizar operadores condicionais: > (maior que), => (maior igual que), < (menor que), <= (menor igual que), =(igual) e !=(diferente).
 
 ```
 SELECT nome, ano FROM cursos
@@ -127,7 +127,7 @@ SELECT ano, nome FROM cursos
 WHERE ano IN (2019, 2021, 2022)
 ORDER BY ano; 
 ```
-Clásula LIKE
+Cláusula LIKE
 -
 Em SQL LIKE significa "parecido" e não "gostar/curtir (redes sociais)".Exemplo: se quiser mostrar todos os cursos ta tabela que começam com a letra "E". Lembrando que LIKE é case sensitive, ou seja, não tem diferença entrev maiusculo e minusculo, como no exemplo entre 'E' e 'e'.
 ```
@@ -144,7 +144,7 @@ O SELECT com WHERE usando LIKE é muito usado dentro de uma sistema, porque gera
 SELECT * FROM cursos
 WHERE nome LIKE '%Engenharia%'; 
 ```
-Clásula DISTINCT
+Cláusula DISTINCT
 -
 O DISTINCT serve para distinguir registros. Na tabela terá colunas com várias ocorrências iguias, por exemplo, carga horária de curso, tem curso que tem a mesma carga horária. Mas, se eu quiser visualizar somente os tipos de carga horária, utilizo a claúsula DISTINCT.
 ```
