@@ -11,8 +11,8 @@ matricula VARCHAR(15) NOT NULL,
 dtNasc DATE NOT NULL,
 cpf VARCHAR(14) NOT NULL
 );
-
 ```
+TESTE
 
 ```
 INSERT INTO alunos VALUES
