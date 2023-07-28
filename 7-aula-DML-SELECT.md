@@ -22,7 +22,7 @@ INSERT INTO cursos VALUES
 (DEFAULT, 'Ciência de Dados', '1100', '2022'),
 (DEFAULT, 'Técnico em Informática para a Internet', '950', '2021'),
 (DEFAULT, 'Técnico em Informática', '800', '2015'),
-(DEFAULT, 'Medicina', '4500', '2015'),
+(DEFAULT, 'Direito', '3500', '2015'),
 (DEFAULT, 'Farmacia', '3500', '2016'),
 (DEFAULT, 'Odontologia', '3400', '2020'),
 (DEFAULT, 'Enfermagem', '3300', '2015'),
@@ -80,6 +80,11 @@ SELECT * FROM cursos
 WHERE ano='2017'
 ORDER BY nome; 
 ```
+Todos os campos (SELECT * FROM) da tabela cursos onde o nome do curso seja 'Direito':
+```
+SELECT * FROM cursos
+WHERE nome='Direito';
+```
 ```
 SELECT nome, ano FROM cursos
 WHERE ano='2017'
@@ -121,4 +126,68 @@ Além do BETWEEN temos outro operador chamado IN no IN podemos colocar valores e
 SELECT ano, nome FROM cursos
 WHERE ano IN (2019, 2021, 2022)
 ORDER BY ano; 
+```
+Clásula LIKE
+-
+Em SQL LIKE significa "parecido" e não "gostar/curtir (redes sociais)".Exemplo: se quiser mostrar todos os cursos ta tabela que começam com a letra "E". Lembrando que LIKE é case sensitive, ou seja, não tem diferença entrev maiusculo e minusculo, como no exemplo entre 'E' e 'e'.
+```
+SELECT * FROM cursos
+WHERE nome LIKE 'E%'; 
+```
+Outro exemplo,se quiser mostrar todos os cursos ta tabela que terminam com a letra "A"
+```
+SELECT * FROM cursos
+WHERE nome LIKE '%A'; 
+```
+O SELECT com WHERE usando LIKE é muito usado dentro de uma sistema, porque geralmente fazemos buscas por pedaços. Por exemplo, quero procurar todos os cursos de Engenharia:
+```
+SELECT * FROM cursos
+WHERE nome LIKE '%Engenharia%'; 
+```
+Clásula DISTINCT
+-
+O DISTINCT serve para distinguir registros. Na tabela terá colunas com várias ocorrências iguias, por exemplo, carga horária de curso, tem curso que tem a mesma carga horária. Mas, se eu quiser visualizar somente os tipos de carga horária, utilizo a claúsula DISTINCT.
+```
+SELECT carga * FROM cursos;
+```
+```
+SELECT DISTINCT carga * FROM cursos;
+```
+Funções de agregações 
+-
+Serve para selecionar ou totalizar alguma coisa. Se eu quiser saber quantos cursos eu tenho cadastrados, somente com o comando "SELECT * FROM cursos" terei que contar manualmente.
+```
+SELECT COUNT(*) FROM cursos;
+WHERE nome LIKE '%Engenharia%'; 
+```
+```
+SELECT COUNT(*) FROM cursos;
+WHERE carga > 3000; 
+```
+
+Agregação com a claúsula MAX
+-
+De todos os registros ver o maior dado.
+```
+SELECT MAX(carga) FROM cursos;
+```
+
+Agregação com a claúsula MIN
+-
+```
+De todos os registros ver o menor dado.
+SELECT MIN(carga) FROM cursos;
+```
+Agregação coma a claúsula SUN
+-
+Somar todos os registros
+```
+SELECT SUN(carga) FROM cursos;
+```
+
+Agregação com a claúsula AVG
+-
+Tirar a média de todos os registros
+```
+SELECT AVG(carga) FROM cursos;
 ```
