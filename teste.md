@@ -33,3 +33,7 @@ TESTED
 DELETE FROM alunos WHERE matricula='458';
 ```
 
+```
+SELECT *FROM alunos;
+```
+
