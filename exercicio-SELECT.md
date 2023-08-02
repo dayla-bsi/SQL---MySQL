@@ -17,24 +17,29 @@ Certamente, no nosso sistema de uma universidade denominado no Banco de Dados de
 
 2º **Alterar (ALTER)** a tabela "professores" adiconando três novas colunas:
    
-    - "genero" - adiconar depois da coluna "cpf"
-    - "carga_horaria" - adiconar depois da coluna "formacao"
-    - "nível_academico" - adiconar depois da coluna "espec"
+    - `genero` ENUM ('M', 'F') - adiconar depois da coluna "cpf"
+    - `carga_horaria` INT - adiconar depois da coluna "formacao"
+    - `nível_academico` VARCHAR - adiconar depois da coluna "espec"
     
 3º **Inserção (INSERT) de Dados e Manipulação**
-Inserir os dados de professores na tabela.
+     a) Inserir os **dois** registros de professores na tabela;
+     b) **Deletar (DELETE)** os dois registros inseridos na tabela;
+     c) Inserir os registros disponibilizados em https://github.com/dayla-bsi/sql/blob/main/dados-profs
 
 4º **Consultas e relatórios (SELECT)**
 Para realizar consultas no Banco de Dados e obter informações relevantes. Faça as seguintes onsultas na tabela "professores":
 
-    1) Uma lista de todas as professoras (mulheres);
-    2) Uma lista com os dados  de todos aqueles que foram admitidos entre 1/jan/2020 e 31/Dez/2021;
-    3) Uma lista de todos os professores (homens) formados em Ciência da Computação;
-    4) Uma lista de todas as mulheres com nível de mestrado  e que tem o nome iniciado com a letra "A";
-    5) Uma lista com todos os nomes, cpf, carga de trabalho, nivel academico que ganham menos que 12.000;
-    6) Uma lista com o maior salario entre os homens com nível de doutorado;
-    7) Uma lista com o menor salario entre os mulheres com nível de doutorado;
-    8) Uma lista com a média de salário de todos os professores;
-    9) Uma lista com o menor salário entre todos os professores;
-    10) Quantos professores (todos - homens e mulheres) ganham mais que 12.000;
-    11) Quantas professoras ganham mais que 12.000;
+    a) Uma lista de todos os professores que tem o sobrenome "Oliveira";
+    b) Uma lista de quais são as formações dos professores existentes na instituição;
+    c) Uma lista de todas as professoras (mulheres); 
+    d) Uma lista de todas as professoras (mulheres) admitidas em 2022; 
+    e) Uma lista com os dados  de todos aqueles que foram admitidos entre 1/jan/2020 e 31/Dez/2021;
+    f) Uma lista de todos os professores (homens) formados em Ciência da Computação;
+    g) Uma lista de todas as mulheres com nível de mestrado  e que tem o nome iniciado com a letra "A";
+    h) Uma lista com todos os nomes, cpf, carga de trabalho, nivel academico que ganham menos que 12.000;
+    i) Uma lista com o maior salario entre os homens com nível de doutorado;
+    j) Uma lista com o menor salario entre os mulheres com nível de doutorado;
+    k) Uma lista com a média de salário de todos os professores;
+    l) Uma lista com o menor salário entre todos os professores;
+    m) Quantos professores (todos - homens e mulheres) ganham mais que 12.000;
+    n) Quantas professoras ganham mais que 12.000;
