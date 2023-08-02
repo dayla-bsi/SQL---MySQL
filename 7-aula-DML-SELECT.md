@@ -144,8 +144,12 @@ O SELECT com WHERE usando LIKE é muito usado dentro de uma sistema, porque gera
 SELECT * FROM cursos
 WHERE nome LIKE '%Engenharia%'; 
 ```
-Cláusula DISTINCT
+
+Funções de agregações 
 -
+Serve para selecionar ou totalizar alguma coisa.
+
+**Cláusula DISTINCT**
 O DISTINCT serve para distinguir registros. Na tabela terá colunas com várias ocorrências iguais, por exemplo, carga horária de curso, tem curso que tem a mesma carga horária. Mas, se eu quiser visualizar somente os tipos de carga horária, utilizo a claúsula DISTINCT.
 ```
 SELECT carga * FROM cursos;
@@ -153,9 +157,8 @@ SELECT carga * FROM cursos;
 ```
 SELECT DISTINCT carga * FROM cursos;
 ```
-Funções de agregações 
--
-Serve para selecionar ou totalizar alguma coisa. Se eu quiser saber quantos cursos eu tenho cadastrados, somente com o comando "SELECT * FROM cursos" terei que contar manualmente.
+**Claúsula COUNT**
+Se eu quiser saber quantos cursos eu tenho cadastrados, somente com o comando "SELECT * FROM cursos" terei que contar manualmente.
 ```
 SELECT COUNT(*) FROM cursos
 WHERE nome LIKE '%Engenharia%'; 
@@ -165,28 +168,27 @@ SELECT COUNT(*) FROM cursos
 WHERE carga > 3000; 
 ```
 
-Agregação com a claúsula MAX
--
+**claúsula MAX**
+
 De todos os registros ver o maior dado.
 ```
 SELECT MAX(carga) FROM cursos;
 ```
 
-Agregação com a claúsula MIN
--
+**Claúsula MIN**
 ```
 De todos os registros ver o menor dado.
 SELECT MIN(carga) FROM cursos;
 ```
-Agregação coma a claúsula SUN
+**Claúsula SUN**
 -
 Somar todos os registros
 ```
 SELECT SUN(carga) FROM cursos;
 ```
 
-Agregação com a claúsula AVG
--
+**Claúsula AVG**
+
 Tirar a média de todos os registros
 ```
 SELECT AVG(carga) FROM cursos;
