@@ -1,6 +1,6 @@
 Certamente, no nosso sistema de uma universidade denominado no Banco de Dados de "unisenac" tem uma tabela de Docentes, que já possui os seguintes atributos:
 
-- Tabela "Docentes":
+- **Tabela "Docentes":**
   - Atributos:
     - `id` (INT): chave primária que identifica exclusivamente cada Docente
     - `nome` (VARCHAR): nome do professor
@@ -9,6 +9,14 @@ Certamente, no nosso sistema de uma universidade denominado no Banco de Dados de
     - `salario` (DECIMAL): salario do professor
     - `dataAdmissao` (DATE): : Data de admissão ou contratação do professor
     - `especializacao`  (VARCHAR): se o professor possuir aguma especialização, inserir qual.
+
+      - Atributos: 
+       - `id` (INT): chave primária que identifica exclusivamente .
+       - `nome` (VARCHAR): nome do
+       - `fabricante` (VARCHAR): nome do fabricante do
+       - `preco` (DECIMAL): preço do 
+       - `quantidade` (INT): quantidade disponível em estoque.
+
    
 *Exercício prático*   
 
