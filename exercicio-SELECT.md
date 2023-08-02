@@ -10,15 +10,8 @@ Certamente, no nosso sistema de uma universidade denominado no Banco de Dados de
     - `dataAdmissao` (DATE): : Data de admissão ou contratação do professor
     - `especializacao`  (VARCHAR): se o professor possuir aguma especialização, inserir qual.
 
-      - Atributos: 
-       - `id` (INT): chave primária que identifica exclusivamente .
-       - `nome` (VARCHAR): nome do
-       - `fabricante` (VARCHAR): nome do fabricante do
-       - `preco` (DECIMAL): preço do 
-       - `quantidade` (INT): quantidade disponível em estoque.
-
    
-*Exercício prático*   
+**Exercício prático**  
 
 1º Alterar o nome da tabela "docentes" para "professores" para ficar mais intuitivo.
 
