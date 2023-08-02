@@ -13,16 +13,19 @@ Certamente, no nosso sistema de uma universidade denominado no Banco de Dados de
    
 **Exercício prático**  
 
-1º Alterar o nome da tabela "docentes" para "professores" para ficar mais intuitivo.
+1º **Alterar (ALTER)** o nome da tabela "docentes" para "professores" para ficar mais intuitivo.
 
-2º Alterar a tabela "professores" adiconando três novas colunas:
+2º **Alterar (ALTER)** a tabela "professores" adiconando três novas colunas:
+   
     - "genero" - adiconar depois da coluna "cpf"
     - "carga_horaria" - adiconar depois da coluna "formacao"
     - "nível_academico" - adiconar depois da coluna "espec"
     
-3º Inserção (INSERT) os dados de professores na tabela.
+3º **Inserção (INSERT) de Dados e Manipulação**
+Inserir os dados de professores na tabela.
 
-4º *Consultas e relatórios* (SELECT) para realizar consultas no Banco de Dados e obter informações relevantes. Faça as seguintes onsultas na tabela "professores":
+4º **Consultas e relatórios (SELECT)**
+Para realizar consultas no Banco de Dados e obter informações relevantes. Faça as seguintes onsultas na tabela "professores":
 
     1) Uma lista de todas as professoras (mulheres);
     2) Uma lista com os dados  de todos aqueles que foram admitidos entre 1/jan/2020 e 31/Dez/2021;
