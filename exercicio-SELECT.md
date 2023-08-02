@@ -22,6 +22,7 @@ Certamente, no nosso sistema de uma universidade denominado no Banco de Dados de
     - `nível_academico` VARCHAR - adiconar depois da coluna "espec"
     
 3º **Inserção (INSERT) de Dados e Manipulação**
+
      a) Inserir os **dois** registros de professores na tabela;
      b) **Deletar (DELETE)** os dois registros inseridos na tabela;
      c) Inserir os registros disponibilizados em https://github.com/dayla-bsi/sql/blob/main/dados-profs
