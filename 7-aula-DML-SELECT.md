@@ -235,4 +235,5 @@ Exercício Prático
 1) Uma lista agrupada com as formações dos professores e deus respectivos quantitativos.
 2) Uma lista com os professores com nível acadêmico de doutorado, mostrando sua formação de origem e o total de pessoas que possuem doutorado. Mas, só nos interessa o relatório dos professores com caraga horária superior a 30 horas.
 3) Quantos professores homens e quantas professoras mulheres foram admitidos após 01/-1/2019.
-4) Uma lista agrupada pela carga horária dos professores, mostrando quantos ganham mais ou igual 12.000,00 e que possuem Mestrado e Pós graduação. 
+4) Uma lista agrupada pela carga horária dos professores, mostrando quantos ganham mais ou igual 12.000,00 e que possuem Mestrado e Pós graduação.
+5) Uma lista agrupada pela carga horária dos professores, mostrando quantos ganham mais que a média salarial e que possuem Mestrado.
