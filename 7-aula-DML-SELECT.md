@@ -207,7 +207,7 @@ GROUP BY carga_hor
 ORDER BY carga_hor;
 ```
 Aprendemos a agrupar elementos. **GROUP BY** e **HAVING**:
-O **HAVING** é selecionar nos registros agrupados **tendo** aquela condição.
+O **HAVING** é para selecionar nos registros agrupados **tendo** aquela condição.
 ```
  SELECT…
    FROM…
