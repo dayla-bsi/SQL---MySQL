@@ -28,7 +28,7 @@ INSERT INTO cursos VALUES
 (DEFAULT, 'Enfermagem', '3300', '2015'),
 (DEFAULT, 'Nutrição', '3200', '2020'),
 (DEFAULT, 'Psicologia', '33240', '2022'),
-(DEFAULT, 'EDucação Física', '2897', '2022');
+(DEFAULT, 'Educação Física', '2897', '2022');
 ```
 
 SELECT
@@ -192,4 +192,31 @@ SELECT SUN(carga) FROM cursos;
 Tirar a média de todos os registros
 ```
 SELECT AVG(carga) FROM cursos;
+```
+Agrupamento
+-
+```
+SELECT carga_hor FROM cursos GROUP BY carga_hor;
+```
+```
+SELECT carga_hor, count(*) FROM cursos GROUP BY carga_hor;
+```
+```
+SELECT carga_hor, count(*) FROM cursos WHERE ano >= 2020
+GROUP BY carga_hor
+ORDER BY carga_hor;
+```
+Aprendemos a agrupar elementos. **GROUP BY** e **HAVING**:
+O **HAVING** é selecionar nos registros agrupados **tendo** aquela condição.
+```
+ SELECT…
+   FROM…
+   GROUP BY COLUNA1, COLUNA2, COLUNAN…
+   HAVING CONDICAO
+```
+```
+SELECT carga_hor, count(*) FROM cursos WHERE ano >= 2020
+GROUP BY carga_hor
+HAVING carga_hor >= 30
+ORDER BY carga_hor;
 ```
