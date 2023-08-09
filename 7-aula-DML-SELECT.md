@@ -28,7 +28,7 @@ INSERT INTO cursos VALUES
 (DEFAULT, 'Enfermagem', '3300', '2015'),
 (DEFAULT, 'Nutrição', '3200', '2020'),
 (DEFAULT, 'Psicologia', '33240', '2022'),
-(DEFAULT, 'Educação Física', '2897', '2022');
+(DEFAULT, 'EDucação Física', '2897', '2022');
 ```
 
 SELECT
