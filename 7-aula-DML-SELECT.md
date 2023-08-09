@@ -220,3 +220,12 @@ GROUP BY carga_hor
 HAVING carga_hor >= 30
 ORDER BY carga_hor;
 ```
+**SubQuerys**
+É um recurso dentro do SQL que permite a criação de queries mais otimizadas, reaproveitando o resultado de uma query dentro de outra query.
+
+```
+SELECT carga_hor, count(*) FROM cursos WHERE ano >= 2020
+GROUP BY carga_hor
+HAVING carga_hor >= (SELECT AVG(carga_hor) FROM cursos)
+ORDER BY carga_hor;
+```
