@@ -6,3 +6,20 @@ alguma informação muito importante.
 INNER JOIN
 -
 O INNER JOIN é utilizado quando queremos retornar os registros que tenham correspondência nas duas tabelas presentes na junção.
+
+INNER JOIN com várias tabelas
+
+````
+CREATE TABLE aluno_curso(
+id INT AUTO_INCREMENT PRIMARY KEY,
+data DATE,
+id_aluno INT,
+id_curso INT,
+
+FOREIGN KEY (id_aluno) REFERENCES aluno(id),
+FOREIGN KEY (id_curso) REFERENCES curso(id)
+);
+````
+````
+SELECT * aluno JOIN aluno_curso ON aluno.id=aluno_curso.id_aluno JOIN cursos ON cursos.id=aluno_curso.id_curso;
+````
