@@ -237,3 +237,5 @@ Exercício Prático
 3) Quantos professores homens e quantas professoras mulheres foram admitidos após 01/-1/2019.
 4) Uma lista agrupada pela carga horária dos professores, mostrando quantos ganham mais ou igual 12.000,00 e que possuem Mestrado e Pós graduação.
 5) Uma lista agrupada pela carga horária dos professores, mostrando quantos ganham mais que a média salarial e que possuem Mestrado.
+
+Pratiquem sem copiar e colar!!!
