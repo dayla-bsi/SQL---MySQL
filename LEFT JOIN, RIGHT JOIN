@@ -1,2 +1,8 @@
-No SQL existem várias formas de realizar consultas no banco de dados utilizando desde queries simples a queries mais complexas. Um exemplo disso é a necessidade de realizar consultas em várias tabelas ao mesmo tempo. No banco de dados, existem várias tabelas diferentes onde os dados são armazenados e, muitas vezes, é necessário juntar os dados que estão em várias tabelas para se obter alguma informação muito importante.
-O INNER JOIN é utilizado quando queremos retornar os registros que tenham correspondência nas duas tabelas presentes na junção
+No SQL existem várias formas de realizar consultas no banco de dados utilizando desde queries simples a queries mais complexas.
+Um exemplo disso é a necessidade de realizar consultas em várias tabelas ao mesmo tempo. No banco de dados, existem várias tabelas 
+diferentes onde os dados são armazenados e, muitas vezes, é necessário juntar os dados que estão em várias tabelas para se obter 
+alguma informação muito importante.
+
+INNER JOIN
+-
+O INNER JOIN é utilizado quando queremos retornar os registros que tenham correspondência nas duas tabelas presentes na junção.
