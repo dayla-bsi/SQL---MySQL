@@ -195,6 +195,7 @@ SELECT AVG(carga) FROM cursos;
 ```
 Agrupamento
 -
+O comando GROUP BY é utilizado em conjunto com a cláusula SELECT para agrupar registros semelhantes em uma coluna e somar quantos registros pertence a cada repetição. 
 ```
 SELECT carga_hor FROM cursos GROUP BY carga_hor;
 ```
