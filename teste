@@ -1,0 +1,4 @@
+Suponha que temos duas tabelas: uma chamada "Clientes" com as colunas "ID" e "Nome",
+e outra chamada "Compras" com as colunas "ID_Cliente" e "Valor". O exercício é encontrar 
+o nome dos clientes que fizeram compras com valores superiores à média de todos os
+valores de compra.
