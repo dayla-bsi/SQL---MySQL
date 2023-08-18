@@ -94,7 +94,7 @@ FOREIGN KEY (id_aluno) REFERENCES aluno(id),
 FOREIGN KEY (id_curso) REFERENCES curso(id)
 );
 ```
-**INNER JOIN de VÁRIAS tabelas.**
+**INNER JOIN de VÁRIAS tabelas**
 ```
 SELECT * FROM aluno JOIN vinculo_aluno_curso ON aluno.id=vinculo_aluno_curso.id_aluno JOIN curso ON curso.id=vinculo_aluno_curso.id_curso;
 ```
