@@ -1,3 +1,4 @@
+Criar (CREATE)
 ```
 CREATE TABLLE cliente(
 id INT NOT NULL AUTO_INCREMENT,
@@ -14,6 +15,7 @@ id_cliente INT NOT NULL,
 FOREIGN KEY(id_cliente) REFERENCES cliente (id)
 );
 ```
+Inserir (INSERT) dados nas tabelas
 ```
 INSERT INTO cliente VALUES
 (DEFAULT, 'Gustavo'),
