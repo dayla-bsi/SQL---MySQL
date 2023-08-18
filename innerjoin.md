@@ -25,7 +25,7 @@ INSERT INTO cliente VALUES
 (DEFAULT, 'José');
 ```
 ```
-INSERT INTO cliente VALUES
+INSERT INTO compras VALUES
 (DEFAULT, '1851.00', '1'), //Gustavo
 (DEFAULT, '1950.00', '4'), //Aline
 (DEFAULT, '1100.00', '3'), //Vitor
