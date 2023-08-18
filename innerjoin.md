@@ -51,4 +51,6 @@ Suponha que temos duas tabelas: uma chamada "Clientes" com as colunas "ID" e "No
 SELECT * FROM cliente JOIN compras ON cliente.id=compras.id_cliente
 WHERE compras.valor (SELECT AVG (valor) FROM compras);
 ```
+ou colocando no registro colunas específicas
+
 
