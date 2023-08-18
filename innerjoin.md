@@ -1,0 +1,16 @@
+```
+CREATE TABLLE cliente(
+id INT NOT NULL AUTO_INCREMENT,
+nome VARCHAR (30) NOT NULL,
+PRIMARY KEY(id)
+);
+```
+```
+CREATE TABLE compras(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+valor DECIMAL(7,2) NOT NULL,
+
+id_cliente INT NOT NULL,
+FOREIGN KEY(id_cliente) REFERENCES cliente (id)
+);
+```
