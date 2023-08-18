@@ -26,10 +26,10 @@ INSERT INTO cliente VALUES
 ```
 ```
 INSERT INTO compras VALUES
-(DEFAULT, '1851.00', '1'), //Gustavo
-(DEFAULT, '1950.00', '4'), //Aline
-(DEFAULT, '1100.00', '3'), //Vitor
-(DEFAULT, '1560.00', '2'); //Leonardo
+(DEFAULT, '1851.00', '1'),
+(DEFAULT, '1950.00', '4'), 
+(DEFAULT, '1100.00', '3'), 
+(DEFAULT, '1560.00', '2'); 
 ```
 Atualizar (UPDATE) dados da tabela
 ```
