@@ -9,7 +9,7 @@ PRIMARY KEY(id)
 ```
 CREATE TABLE compras(
 id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-valor DECIMAL(6,2) NOT NULL,
+valor DECIMAL(6.2) NOT NULL,
 
 id_cliente INT NOT NULL,
 FOREIGN KEY(id_cliente) REFERENCES cliente (id)
