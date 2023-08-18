@@ -31,3 +31,17 @@ INSERT INTO cliente VALUES
 (DEFAULT, '1100.00', '3'), //Vitor
 (DEFAULT, '1560.00', '2'); //Leonardo
 ```
+Atualizar (UPDATE) dados da tabela
+```
+UPDATE cliente SET nome = 'Henrique' WHERE id='5';
+```
+Deletar (DELETE) dados da tabela. OBS.:Apagar registros específicos mediante uma condição. Se quisesse apagar todos de uma vez usava a claúsula TRUNCATE nomeDaTabela;
+```
+DELETE FROM cliente WHERE id='5';
+```
+INNER JOIN
+-
+```
+SELECT * FROM cliente JOIN compras ON cliente.id=compras.id_cliente;
+
+**Exercício aula passada (16/08)**
