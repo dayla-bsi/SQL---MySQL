@@ -41,6 +41,7 @@ DELETE FROM cliente WHERE id='5';
 ```
 INNER JOIN
 -
+**Junção (JOIN) interna de DUAS tabelas que se relacionam.**
 ```
 SELECT * FROM cliente JOIN compras ON cliente.id=compras.id_cliente;
 ```
@@ -62,4 +63,38 @@ ou criando um atributo para referenciar a tabela. Ex.: Podemos chamar a tabela c
 SELECT * FROM cliente c JOIN compras co ON c.id=co.id_cliente
 WHERE co.valor > (SELECT AVG (valor) FROM compras);
 ```
+**Junção (JOIN) interna de VÁRIAS tabelas que se relacionam.**
 
+```
+CREATE TABLE aluno(
+id INT NOT NULL AUTO_INCREMENT,
+nome VARCHAR (30) NOT NULL,
+cpf VARCHAR (14) NOT NULL,
+PRIMARY KEY(id)
+);
+```
+
+```
+CREATE TABLE curso(
+id INT NOT NULL AUTO_INCREMENT,
+nome VARCHAR (30) NOT NULL,
+carga_hora INT NOT NULL,
+PRIMARY KEY(id)
+);
+```
+```
+CREATE TABLE vinculo_aluno_curso(
+id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+faltas INT NOT NULL,
+
+id_aluno INT NOT NULL,
+id_curso INT NOT NULL,
+
+FOREIGN KEY (id_aluno) REFERENCES aluno(id),
+FOREIGN KEY (id_curso) REFERENCES curso(id)
+);
+```
+**INNER JOIN de VÁRIAS tabelas.**
+```
+SELECT * FROM aluno JOIN vinculo_aluno_curso ON aluno.id=vinculo_aluno_curso.id_aluno JOIN curso ON curso.id=vinculo_aluno_curso.id_curso;
+```
