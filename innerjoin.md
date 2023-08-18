@@ -43,5 +43,12 @@ INNER JOIN
 -
 ```
 SELECT * FROM cliente JOIN compras ON cliente.id=compras.id_cliente;
-
+```
 **Exercício aula passada (16/08)**
+Suponha que temos duas tabelas: uma chamada "Clientes" com as colunas "ID" e "Nome", e outra chamada "Compras" com as colunas "ID_Cliente" e "Valor". O exercício é encontrar o nome dos clientes que fizeram compras com valores superiores à média de todos os valores de compra.
+
+```
+SELECT * FROM cliente JOIN compras ON cliente.id=compras.id_cliente
+WHERE compras.valor (SELECT AVG (valor) FROM compras);
+```
+
