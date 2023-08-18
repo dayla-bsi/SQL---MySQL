@@ -1,4 +1,4 @@
-Criar (CREATE)
+Criar (CREATE) as tabelas
 ```
 CREATE TABLLE cliente(
 id INT NOT NULL AUTO_INCREMENT,
