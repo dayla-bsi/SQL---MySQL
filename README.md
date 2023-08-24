@@ -1,2 +1,2 @@
 # sql
-aulas-banco-de-dados-MYSQ
+aulas-banco-de-dados-MySQL
