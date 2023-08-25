@@ -102,6 +102,7 @@ JOIN curso
 ON curso.id=vinculo_aluno_curso.id_curso;
 ```
 Exercicio INNER JOIN
+
 Considere duas tabelas hipotéticas: "Funcionários" e "Projetos". A tabela "Funcionários" possui informações sobre os funcionários de uma empresa, incluindo o nome e o ID do funcionário. A tabela "Projetos" registra os projetos em que os funcionários estão envolvidos, incluindo o nome do projeto e o ID do funcionário responsável pelo projeto.
 
 1) Escreva uma consulta SQL que retorne o nome dos funcionários e os nomes dos projetos em que eles estão envolvidos usando INNER JOIN.
