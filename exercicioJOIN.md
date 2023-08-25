@@ -1,0 +1,1 @@
+Considere duas tabelas hipotéticas: "Funcionários" e "Projetos". A tabela "Funcionários" possui informações sobre os funcionários de uma empresa, incluindo o nome e o ID do funcionário. A tabela "Projetos" registra os projetos em que os funcionários estão envolvidos, incluindo o nome do projeto e o ID do funcionário responsável pelo projeto.
