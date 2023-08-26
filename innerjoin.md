@@ -110,4 +110,4 @@ Considere duas tabelas hipotéticas: "Funcionários" e "Projetos". A tabela "Fun
 Sistema do UBER
 -
 
-Criar um exemplo de consulta com várias tabelas envolvendo um banco de dados semelhante ao Uber pode ser bastante complexo, mas vou simplificar e criar um cenário fictício mais compreensível. Suponha que temos cinco tabelas: "Motoristas", "Passageiros", "Viagens"
+Criar um exemplo de consulta com várias tabelas envolvendo um banco de dados semelhante ao Uber pode ser bastante complexo, mas vou simplificar e criar um cenário fictício mais compreensível. Suponha que temos três tabelas: "Motoristas", "Passageiros", "Viagens"
