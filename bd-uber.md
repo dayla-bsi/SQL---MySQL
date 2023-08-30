@@ -1,4 +1,4 @@
-Exercício do App Uber
+Exercício do App Uber (Valendo 30 pontos)
 --
 Suponha que você está projetando um banco de dados para um serviço semelhante ao Uber, onde há motoristas, passageiros e viagens. 
 Sua tarefa é criar um esquema de banco de dados com as seguintes tabelas:
