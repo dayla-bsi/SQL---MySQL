@@ -38,9 +38,7 @@ Utilizando o SELECT
 
 *Tarefa 3*: Escreva uma consulta SQL que liste todos os motoristas que ainda não fizeram nenhuma viagem.
 
-*Tarefa 4*: Escreva uma consulta SQL que retorne o passageiro que gastou mais em uma única viagem, incluindo o valor gasto e a data dessa viagem.
-
-*Tarefa 5*: Escreva uma consulta SQL que calcule a média de distância percorrida por todas as viagens e a média de preço das viagens.
+*Tarefa 4*: Escreva uma consulta SQL que calcule a média de distância percorrida por todas as viagens e a média de preço das viagens.
 
 Utilizando o DELETE 
 --
