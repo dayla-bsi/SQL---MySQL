@@ -26,3 +26,7 @@ Escreva o SQL para criar essas três tabelas em um banco de dados. Certifique-se
 *Tarefa 4*: Escreva uma consulta SQL que calcule a média das avaliações dos motoristas.
 
 *Tarefa 5*: Escreva uma consulta SQL que liste os 10 melhores passageiros com base na quantidade total de dinheiro gasto em viagens.
+
+*Tarefa 6*: Escreva uma consulta SQL que liste todos os motoristas que ainda não fizeram nenhuma viagem.
+
+*Tarefa 7*: Escreva uma consulta SQL que retorne o número total de viagens feitas por cada motorista, classificando os resultados em ordem decrescente com base no número de viagens.
