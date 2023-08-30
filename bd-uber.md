@@ -30,3 +30,5 @@ Escreva o SQL para criar essas três tabelas em um banco de dados. Certifique-se
 *Tarefa 6*: Escreva uma consulta SQL que liste todos os motoristas que ainda não fizeram nenhuma viagem.
 
 *Tarefa 7*: Escreva uma consulta SQL que retorne o número total de viagens feitas por cada motorista, classificando os resultados em ordem decrescente com base no número de viagens.
+
+Essas tarefas devem ajudá-lo a praticar a criação de um esquema de banco de dados e a escrever consultas SQL para extrair informações úteis de seus dados simulados relacionados ao Uber.
