@@ -107,7 +107,3 @@ Considere duas tabelas hipotéticas: "Funcionários" e "Projetos". A tabela "Fun
 
 1) Escreva uma consulta SQL que retorne o nome dos funcionários e os nomes dos projetos em que eles estão envolvidos usando INNER JOIN.
 
-Sistema do UBER
--
-
-Criar um exemplo de consulta com várias tabelas envolvendo um banco de dados semelhante ao Uber pode ser bastante complexo, mas vou simplificar e criar um cenário fictício mais compreensível. Suponha que temos três tabelas: "Motoristas", "Passageiros", "Viagens"
