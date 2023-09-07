@@ -32,9 +32,10 @@ Media = Soma Etapa A + Soma Etapa B / 2
 Média aprovação >= 70
 
 
-Notas:
+Resultados 
+Nota A + Nota B = Media 
 
-392310003: 95 + 99,8 = 97,4
+392310003: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 35 TOTAL A: 95) + ((Nota B: 1º Exercício = 30 + 2º Exercício = 33) + 15 + 14,8 TOTAL B: 92,8). NOTAS E MEDIA FINAL: 95 + 92,8 = 93,9 APROVADO
 
 66221003950: 93 + 93,5 = 93,5
 
