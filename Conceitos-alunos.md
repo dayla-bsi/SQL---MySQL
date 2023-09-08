@@ -57,6 +57,8 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392310004: NOTA A: 1º Exercício = 40 + 2º Exercício = NAO ENTREGOU + 3º Exercício = 26,4 TOTAL A: 66,4) + ((Nota B: 1º Exercício = 24,6 + 2º Exercício = 27,2) + 11,5 + 12,4 TOTAL B: 75,6). RESULTADO FINAL DAS NOTAS E MÉDIA: (66,4 + 75,7) / 2 = 71,05 APROVADO
 
+392310030: NOTA A: 1º Exercício = 40 + 2º Exercício = 8 + 3º Exercício = 16,5. TOTAL A: 64,5) + ((Nota B: 1º Exercício = 26 + 2º Exercício = 28) + 12,5 + 11,0 TOTAL B: 77,5). RESULTADO FINAL DAS NOTAS E MÉDIA: (64,5 + 77,5) / 2= 71 APROVADO
+
 392310047: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = NÃO ENTREGOU TOTAL A: 25) + ((Nota B: 1º Exercício = 25,8 + 2º Exercício = 27,5) + 12,5 + 14 TOTAL B: 79,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (60 + 79,8) / 2 = 70 APROVADO
 
 392310048: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = 29,7. TOTAL A: 69,7) + ((Nota B: 1º Exercício = 24,9 + 2º Exercício = 25,5) + 12,0 + 13,5 TOTAL B: 75,9). RESULTADO FINAL DAS NOTAS E MÉDIA: (69,7 + 75,9) / 2 = 72,8 APROVADO
@@ -65,11 +67,8 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392310016: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 22,1 + 2º Exercício = 24,3) + 12,0 + 14,5 TOTAL B: 72,9). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 72,9) / 2 = 56,45 RECUPERAÇÃO
 
-392310030: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 26 + 2º Exercício = 28) + 12,5 + 11,0 TOTAL B: 77,5). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 77,5) / 2= 58,75 RECUPERAÇÃO
 
 391700538: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 24,7 + 2º Exercício = 26.1) + 12,0 + 11,0 TOTAL B: 73,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 73,8) / 2 = 56,9 RECUPERAÇÃO
-
-
 
 
 392200161: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 0) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 24.5) + 8,0 + 7,0 TOTAL B: 39,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(0,0 + 39,5) / 2 = 19,75 RECUPERAÇÃO
