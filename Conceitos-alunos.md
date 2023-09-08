@@ -2,7 +2,7 @@
 
 O método avaliativo da disciplina de Banco de Dados consistiu em 5 exercícios, divididos em duas etapas A e B.
 
-/* *INICIO ETAPA A*
+*INICIO ETAPA A*
 
 *Os exercícios do 1 ao 3 pertencem ao Projeto de Banco de Dados completo, que abrange desde a modelagem até a implementação de um sistema para uma clínica médica*
 
@@ -12,10 +12,10 @@ O método avaliativo da disciplina de Banco de Dados consistiu em 5 exercícios,
 
 3) Implementação do Banco de Dados (código SQL de todas as Entidades/tabelas, atributos e relacionamentos da modelagem criada nos exercícios 1 e 2) - 40% da nota - Data limite de entrega: 27/07
 
-*/ *FIM ETAPA A*
+*FIM ETAPA A*
 
 
-/* *INICIO ETAPA B*
+*INICIO ETAPA B*
 
 
 4) Criação de um Banco de Dados para um sistema de uma universidade (denominado 'unisenac') - 35% da nota - Data limite de entrega: 03/08.
@@ -28,8 +28,8 @@ O método avaliativo da disciplina de Banco de Dados consistiu em 5 exercícios,
 
 
 
-*/ *FIM ETAPA B* 
--
+*FIM ETAPA B* 
+
 
 Media = Soma Etapa A + Soma Etapa B / 2
 
