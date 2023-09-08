@@ -76,6 +76,7 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392200161: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 0) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 24.5) + 9,0 + 9,0 TOTAL B: 42,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(0,0 + 42,5) / 2 = 21,25 RECUPERAÇÃO
 
+EDISON: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = 40. TOTAL A: 40) + ((Nota B: 1º Exercício = PENDENTE + 2º Exercício = PENDENTE) + 14 + 15 TOTAL B: ). RESULTADO FINAL DAS NOTAS E MÉDIA:(40 + x) / 2 = x RECUPERAÇÃO
 
 Alunos com matrícula 392310032, 392310046, por favor, entre em contato.
 
