@@ -39,7 +39,7 @@ Média aprovação >= 70
 
 Para visualizar suas notas, atente-se ao número de sua matrícula. Elas estão organizadas da seguinte forma:
 
-MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
+MATRÍCULA (do aluno, pode ser vista no Portal): (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392310003: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 35 TOTAL NOTA A: 95) + ((NOTA B:1º Exercício = 30 + 2º Exercício = 33) + 15 + 14,8 TOTAL NOTA B: 92,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (95 + 92,8) / 2 = 93,9 APROVADO
 
