@@ -41,7 +41,7 @@ Para visualizar suas notas, atente-se ao número de sua matrícula. Elas estão 
 
 MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
-392310003: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 3 TOTAL NOTA A: 95) + ((NOTA B:1º Exercício = 30 + 2º Exercício = 33) + 15 + 14,8 TOTAL NOTA B: 92,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (95 + 92,8) / 2 = 93,9 APROVADO
+392310003: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 35 TOTAL NOTA A: 95) + ((NOTA B:1º Exercício = 30 + 2º Exercício = 33) + 15 + 14,8 TOTAL NOTA B: 92,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (95 + 92,8) / 2 = 93,9 APROVADO
 
 66221003950: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 28,7 TOTAL NOTA A: 88,7) + ((NOTA B: 1º Exercício = 30 + 2º Exercício = 35) + 15 + 14,5  TOTAL NOTA B: 94,5). RESULTADO FINAL DAS NOTAS E MÉDIA: (88,7 + 94,5) / 2 = 91,6 APROVADO
 
