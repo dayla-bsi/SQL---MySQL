@@ -1,6 +1,6 @@
 
 
-Foram 5 exercícios, divididos em duas etapas.
+O método avaliativo da disciplina de Banco de Dados, foram 5 exercícios, divididos em duas etapas A e B. 
 
 /* *INICIO ETAPA A*
 -
