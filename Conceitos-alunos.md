@@ -1,16 +1,16 @@
 
 
-O método avaliativo da disciplina de Banco de Dados, foram 5 exercícios, divididos em duas etapas A e B. 
+O método avaliativo da disciplina de Banco de Dados consistiu em 5 exercícios, divididos em duas etapas A e B.
 
 /* *INICIO ETAPA A*
 -
-*Exercícios do 1 ao 3 pertencentes ao Projeto de Banco de Dados completo* (desde a modelagem a implementação) *de um sistema para clínica médica:*
+*Os exercícios do 1 ao 3 pertencem ao Projeto de Banco de Dados completo, que abrange desde a modelagem até a implementação de um sistema para uma clínica médica*
 
-1) Modelo Entidade Relacionamento (MER) - 40% da nota - Data limite entrega - 05/07 
+1) Modelo Entidade Relacionamento (MER) - 40% da nota - Data limite de entrega: 05/07 
 
-2) Modelo Lógico - 20% - Data limite entrega - 23/07 
+2) Modelo Lógico - 20% da nota - Data limite de entrega: 23/07 
 
-3) implementação do Banco de Dados (código SQL de todas as Entidades/tabelas, atributos, relacionamentos da modelagem criada no exercício 1 e 2) - 40% - Data limite entrega - 27/07
+3) Implementação do Banco de Dados (código SQL de todas as Entidades/tabelas, atributos e relacionamentos da modelagem criada nos exercícios 1 e 2) - 40% da nota - Data limite de entrega: 27/07
 
 */ *FIM ETAPA A*
 - 
@@ -18,13 +18,15 @@ O método avaliativo da disciplina de Banco de Dados, foram 5 exercícios, divid
 /* *INICIO ETAPA B*
 -
 
-4) Criação de um Banco de Dados para uma Sistema de uma Universidade (unisenac) - 35% - Data limite entrega - 03/08
+4) Criação de um Banco de Dados para um sistema de uma universidade (denominado 'unisenac') - 35% da nota - Data limite de entrega: 03/08.
 
-5) Criação de um Banco de Dados para aplicação (uber) - 35% - Data limite entrega - 30/08
+5) Criação de um Banco de Dados para uma aplicação (projeto "Uber") - 35% da nota - Data limite entrega - 30/08
 
-+ 15% Exercícios feitos em sala de aula e exercícios passados para casa entregues até a data estipulada. 
++ 15% para exercícios feitos em sala de aula e exercícios atribuídos para casa, entregues até a data estipulada.
 
-+ 15% presença, participação ativa na aula. 
++ 15% de presença e participação ativa na aula.
+
+
 
 */ *FIM ETAPA B* 
 -
@@ -36,7 +38,7 @@ Média aprovação >= 70
 
 Resultados 
 -
-MATRICULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) 
+MATRICULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL
 
 392310003: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 3 TOTAL NOTA A: 95) + ((NOTA B:1º Exercício = 30 + 2º Exercício = 33) + 15 + 14,8 TOTAL NOTA B: 92,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (95 + 92,8) / 2 = 93,9 APROVADO
 
