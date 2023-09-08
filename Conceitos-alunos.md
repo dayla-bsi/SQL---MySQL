@@ -45,19 +45,21 @@ Nota A + Nota B = Media
 
 392310029: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 27,3 TOTAL A: 87,3) + ((Nota B: 1º Exercício = 23,6 + 2º Exercício = 25,2) + 12,1 + 14,7 TOTAL B: 75,6). RESULTADO FINAL DAS NOTAS E MÉDIA: 87,3 + 75,6 = 81,45 APROVADO
 
-392310004: NOTA A: 1º Exercício = 40 + 2º Exercício = NAO ENTREGOU + 3º Exercício = 23,4 TOTAL A: 63,4) + ((Nota B: 1º Exercício = 20,6 + 2º Exercício = 27,2) + 11,5 + 12,4 TOTAL B: 75,6). RESULTADO FINAL DAS NOTAS E MÉDIA:63,4 + 75,6 = 71,7 APROVADO
+392310004: NOTA A: 1º Exercício = 40 + 2º Exercício = NAO ENTREGOU + 3º Exercício = 26,4 TOTAL A: 66,4) + ((Nota B: 1º Exercício = 24,6 + 2º Exercício = 27,2) + 11,5 + 12,4 TOTAL B: 75,6). RESULTADO FINAL DAS NOTAS E MÉDIA: 66,4 + 75,7 = 71,05 APROVADO
 
-392310032: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = NÃO ENTREGOU TOTAL A: 25) + ((Nota B: 1º Exercício = 20,8 + 2º Exercício = 24,7) + 12,5 + 13,4 TOTAL B: 71,4). RESULTADO FINAL DAS NOTAS E MÉDIA: 60 + 71,4 = 65,7
+392310047: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = NÃO ENTREGOU TOTAL A: 25) + ((Nota B: 1º Exercício = 25,8 + 2º Exercício = 27,5) + 12,5 + 14 TOTAL B: 79,8). RESULTADO FINAL DAS NOTAS E MÉDIA: 60 + 79,8 = 70 APROVADO
 
-392310048: 65 + 70 = 67,5
+392310048: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = 29,7. TOTAL A: 69,7) + ((Nota B: 1º Exercício = 24,9 + 2º Exercício = 25,5) + 12,0 + 13,5 TOTAL B: 75,9). RESULTADO FINAL DAS NOTAS E MÉDIA:65 + 70 = 72,8 APROVADO
 
-392200869: 40 + 80,3 = 60,15
+392200869: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 24,9 + 2º Exercício = 28,5) + 12,0 + 14 TOTAL B: 79,4). RESULTADO FINAL DAS NOTAS E MÉDIA:40 + 79,4 = 59,7 RECUPERAÇÃO
 
-392310016: 40 + 78,8 = 59,4
+392310016: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 22,1 + 2º Exercício = 24,3) + 12,0 + 14,5 TOTAL B: 72,9). RESULTADO FINAL DAS NOTAS E MÉDIA:40 + 72,9 = 56,45 RECUPERAÇÃO
 
-392310030: 40 + 72 = 56,0
+392310030: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 26 + 2º Exercício = 28) + 12,5 + 11,0 TOTAL B: 77,5). RESULTADO FINAL DAS NOTAS E MÉDIA:40 + 77,5 = 58,75 RECUPERAÇÃO
 
-391700538: 40 + 50 = 45,0
+391700538: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 24,7 + 2º Exercício = 26.1) + 12,0 + 11,0 TOTAL B: 73,8). RESULTADO FINAL DAS NOTAS E MÉDIA:40 + 73,8 = 56,9 RECUPERAÇÃO
 
-392310030: 40 + 36,3 = 38,15
+392310030: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 27.4) + 9,0 + 10,0 TOTAL B: 46,4). RESULTADO FINAL DAS NOTAS E MÉDIA:40 + 46,4 = 46,2 RECUPERAÇÃO
+
+392200161: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 24.5) + 8,0 + 7,0 TOTAL B: 39,5). RESULTADO FINAL DAS NOTAS E MÉDIA:0,0 + 39,5 = 19,75 RECUPERAÇÃO
 
