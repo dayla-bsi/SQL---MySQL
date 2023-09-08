@@ -71,3 +71,12 @@ MATRICULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL
 
 392200161: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 24.5) + 8,0 + 7,0 TOTAL B: 39,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(0,0 + 39,5) / 2 = 19,75 RECUPERAÇÃO
 
+Aluno com matrícula 392310032, por favor, entre em contato.
+
+OBSERVAÇÃO:
+-
+A recuperação será um projeto passado na sexta-feira (08/09) que deve ser entregue até o dia 10/09 e abrangerá todos os tópicos estudados na disciplina.
+
+
+
+
