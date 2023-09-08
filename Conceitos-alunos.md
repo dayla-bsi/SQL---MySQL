@@ -91,7 +91,7 @@ A recuperação valerá a nota completa (100,0)
 
 CÁLCULO PARA OBTER AAROVAÇÃO NA RECUPERAÇÃO:
 
-(NOTA RECUPERAÇÃO + MÉDIA DAS NOTAS) / 2 => 70
+(NOTA RECUPERAÇÃO + MÉDIA DAS NOTAS) / 2 >= 70
 
 
 
