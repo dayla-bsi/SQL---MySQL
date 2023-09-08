@@ -73,7 +73,11 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392200161: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 0) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 24.5) + 8,0 + 7,0 TOTAL B: 39,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(0,0 + 39,5) / 2 = 19,75 RECUPERAÇÃO
 
-Alunos com matrícula 392310032, 392310009, 392310031, 392310046, por favor, entre em contato.
+392310009:  NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 0) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 25.5) + 9,0 + 10 TOTAL B: 44,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(0,0 + 44,5) / 2 = 22,25 RECUPERAÇÃO
+
+392310031: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 26.3) + 10 + 10 TOTAL B: 46,3). RESULTADO FINAL DAS NOTAS E MÉDIA:(40 + 46,3) / 2 = 43,15 RECUPERAÇÃO
+
+Alunos com matrícula 392310032, 392310046, por favor, entre em contato.
 
 Caso tenha alguma discordância em relação às notas ou exercícios que constem como não entregues, solicito que entre em contato, antes das notas serem lançadas no Portal.
 
