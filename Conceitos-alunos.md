@@ -79,7 +79,7 @@ Caso tenha alguma discordância em relação às notas ou exercícios que conste
 
 OBSERVAÇÃO:
 -
-A recuperação será um projeto passado na sexta-feira (08/09) que deve ser entregue até o dia 10/09 e abrangerá todos os tópicos estudados na disciplina.
+A recuperação será um projeto passado na sexta-feira (08/09) que deve ser entregue até no máximo dia 10/09 e abrangerá todos os tópicos estudados na disciplina.
 
 
 
