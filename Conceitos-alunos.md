@@ -74,7 +74,7 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 Aluno com matrícula 392310032, por favor, entre em contato.
 
-Caso tenha alguma discordância em relação às notas ou exercícios que constem como não entregues, solicito que entre em contato.
+Caso tenha alguma discordância em relação às notas ou exercícios que constem como não entregues, solicito que entre em contato, antes das notas serem lançadas no Portal.
 
 OBSERVAÇÃO:
 -
