@@ -37,13 +37,13 @@ Nota A + Nota B = Media
 
 392310003: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 35 TOTAL A: 95) + ((Nota B: 1º Exercício = 30 + 2º Exercício = 33) + 15 + 14,8 TOTAL B: 92,8). RESULTADO FINAL DAS NOTAS E MÉDIA: 95 + 92,8 = 93,9 APROVADO
 
-66221003950: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 28,7 TOTAL A: 88,7) + ((Nota B: 1º Exercício = 30 + 2º Exercício = 35) + 14,8 + 13,7 TOTAL B: 93,5). RESULTADO FINAL DAS NOTAS E MÉDIA: 88,7 + 93,5 = 91,1 APROVADO
+66221003950: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 28,7 TOTAL A: 88,7) + ((Nota B: 1º Exercício = 30 + 2º Exercício = 35) + 15 + 14,5 TOTAL B: 94,5). RESULTADO FINAL DAS NOTAS E MÉDIA: 88,7 + 94,5 = 91,6 APROVADO
 
-392310013:  (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 32,1 TOTAL A: 92,1) + ((Nota B: 1º Exercício = 28,2 + 2º Exercício = 30) + 12,3 + 14,5 TOTAL B: 85). RESULTADO FINAL DAS NOTAS E MÉDIA: 92,1 + 85 = 88,55 APROVADO
+392310013:  (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 32,1 TOTAL A: 92,1) + ((Nota B: 1º Exercício = 28,2 + 2º Exercício = 30) + 15 + 15 TOTAL B: 88,2). RESULTADO FINAL DAS NOTAS E MÉDIA: 92,1 + 88,2 = 90,15 APROVADO
 
-392310015: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 30,1 TOTAL A: 90,1) + ((Nota B: 1º Exercício = 25,4 + 2º Exercício = 29,2) + 12,3 + 14,5 TOTAL B: 81,5). RESULTADO FINAL DAS NOTAS E MÉDIA: 90,1 + 81,5 = 85,8 APROVADO
+392310015: (NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 30,1 TOTAL A: 90,1) + ((Nota B: 1º Exercício = 25,4 + 2º Exercício = 29,2) + 15 + 15 TOTAL B: 84,6). RESULTADO FINAL DAS NOTAS E MÉDIA: 90,1 + 84,6 = 87,35 APROVADO
 
-392310029: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 27,3 TOTAL A: 87,3) + ((Nota B: 1º Exercício = 23,6 + 2º Exercício = 25,2) + 12,1 + 14,7 TOTAL B: 75,6). RESULTADO FINAL DAS NOTAS E MÉDIA: 87,3 + 75,6 = 81,45 APROVADO
+392310029: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 27,3 TOTAL A: 87,3) + ((Nota B: 1º Exercício = 23,6 + 2º Exercício = 25,2) + 12,8 + 15 TOTAL B: 76,6). RESULTADO FINAL DAS NOTAS E MÉDIA: 87,3 + 76,6 = 81,95 APROVADO
 
 392000229: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = NÃO ENTREGOU TOTAL A: 60) + ((Nota B: 1º Exercício = 29,6 + 2º Exercício = 27,4) + 12,1 + 15 TOTAL B: 84,0). RESULTADO FINAL DAS NOTAS E MÉDIA: 60 + 84,0 = 72 APROVADO
 
