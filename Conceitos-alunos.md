@@ -70,7 +70,7 @@ MATRÍCULA (do aluno, pode ser vista no Portal): (DESCRIÇÃO NOTA A) + (DESCRI�
 
 392310001: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 26.1) + 9,0 + 8,0 TOTAL B: 43,1). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 43,1) / 2 = 41,55 RECUPERAÇÃO
 
-392200161: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 24.5) + 8,0 + 7,0 TOTAL B: 39,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(0,0 + 39,5) / 2 = 19,75 RECUPERAÇÃO
+392200161: NOTA A: 1º Exercício = NÃO ENTREGOU + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 0) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 24.5) + 8,0 + 7,0 TOTAL B: 39,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(0,0 + 39,5) / 2 = 19,75 RECUPERAÇÃO
 
 Aluno com matrícula 392310032, por favor, entre em contato.
 
