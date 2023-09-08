@@ -20,7 +20,7 @@ Os exercícios do 1 ao 3 pertencem ao Projeto de Banco de Dados completo, que ab
 
 4) Criação de um Banco de Dados para um sistema de uma universidade (denominado 'unisenac') - 35% da nota - Data limite de entrega: 03/08.
 
-5) Criação de um Banco de Dados para uma aplicação (projeto "Uber") - 35% da nota - Data limite entrega - 30/08
+5) Criação de um Banco de Dados para uma aplicação (projeto "Uber") abrangendo todos os topicos vistos em sala - 35% da nota - Data limite entrega - 30/08
 
 + 15% para exercícios feitos em sala de aula e exercícios atribuídos para casa, entregues até a data estipulada.
 
