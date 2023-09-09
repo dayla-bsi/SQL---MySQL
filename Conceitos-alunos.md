@@ -68,7 +68,7 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392200869: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 24,9 + 2º Exercício = 28,5) + 12,0 + 14 TOTAL B: 79,4). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 79,4) / 2 = 59,7 RECUPERAÇÃO
 
-391700538: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 24,7 + 2º Exercício = 26.1) + 12,0 + 11,0 TOTAL B: 73,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 73,8) / 2 = 56,9 | RECUPERAÇÃO 100 | MÉDIA FINAL = 100 + 56,9 = 78,45 APROVADA
+391700538: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 24,7 + 2º Exercício = 26.1) + 12,0 + 11,0 TOTAL B: 73,8). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 73,8) / 2 = 56,9 | NOTA DA RECUPERAÇÃO 100 | MÉDIA FINAL = 100 + 56,9 = 78,45 APROVADA
 
 392310016: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 22,1 + 2º Exercício = 24,3) + 12,0 + 14,5 TOTAL B: 72,9). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 72,9) / 2 = 56,45 RECUPERAÇÃO
 
