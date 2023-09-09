@@ -71,7 +71,7 @@ EDISON: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exerc
 RESULTADO DA RECUPERAÇÃO
 -
 A média final foi calculada da seguinte forma:
-((NOTA DA RECUPERAÇÃO + MEDIA DAS NOTAS DOS EXERCÍCIOS) / 2) >= 50 APROVADO
+((NOTA DA RECUPERAÇÃO + MEDIA DAS NOTAS DOS EXERCÍCIOS) / 2) >= 50, LOGO, O ALUNO É APROVADO.
 
 392200869: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 40) + ((Nota B: 1º Exercício = 24,9 + 2º Exercício = 28,5) + 12,0 + 14 TOTAL B: 79,4). RESULTADO FINAL DAS NOTAS E MÉDIA: (40 + 79,4) / 2 = 59,7 | NOTA DA RECUPERAÇÃO 100 | MÉDIA FINAL = (100 + 59,7) / 2 = *79,85 APROVADO*
 
@@ -86,19 +86,18 @@ A média final foi calculada da seguinte forma:
 392200161: NOTA A: 1º Exercício = 22 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 22) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 26.5) + 9,0 + 9,0 TOTAL B: 44,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(22,0 + 44,5) / 2 = 33,25  | NOTA DA RECUPERAÇÃO 67 | MÉDIA FINAL = 67 + 33,25 = *50,1 APROVADO*
 
 
-Alunos com matrícula 392310032, 392310046, por favor, entre em contato.
+392310046: NAO ENTREGOU NENHUM EXERCÍCIO E NÃO FEZ A RECUPERAÇÃO, CONSEQUENTEMENTE, REPROVADO!
 
-Caso tenha alguma discordância em relação às notas ou exercícios que constem como não entregues, solicito que entre em contato, antes das notas serem lançadas no Portal.
 
 OBSERVAÇÃO:
 -
-A recuperação será um projeto passado na sexta-feira (08/09) que deve ser entregue até no máximo dia 10/09 e abrangerá todos os tópicos estudados na disciplina.
+A recuperação será um projeto passado na sexta-feira (08/09), entregue no mesmo dia e abrangerá todos os tópicos estudados na disciplina.
 
 A recuperação valerá a nota completa (100,0)
 
 CÁLCULO PARA OBTER AAROVAÇÃO NA RECUPERAÇÃO:
 
-(NOTA RECUPERAÇÃO + MÉDIA DAS NOTAS) / 2 >= 70
+(NOTA RECUPERAÇÃO + MÉDIA DAS NOTAS) / 2 >= 50
 
 
 
