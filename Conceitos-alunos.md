@@ -68,6 +68,7 @@ EDISON: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exerc
 
 392310031: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = 28.8 TOTAL A: 68,8) + ((Nota B: 1º Exercício = 25 + 2º Exercício = 26.6) + 10 + 10 TOTAL B: 71,6). RESULTADO FINAL DAS NOTAS E MÉDIA:(40 + 46,3) / 2 = 70,2 APROVADO
 
+RESULTADO DA RECUPERAÇÃO
 -
 A média final foi calculada da seguinte forma:
 ((NOTA DA RECUPERAÇÃO + MEDIA DAS NOTAS DOS EXERCÍCIOS) / 2) >= 50 APROVADO
