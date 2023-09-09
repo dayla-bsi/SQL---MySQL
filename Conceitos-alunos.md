@@ -95,7 +95,7 @@ A recuperação será um projeto passado na sexta-feira (08/09), entregue no mes
 
 A recuperação valerá a nota completa (100,0)
 
-CÁLCULO PARA OBTER AAROVAÇÃO NA RECUPERAÇÃO:
+CÁLCULO PARA OBTER APROVAÇÃO NA RECUPERAÇÃO:
 
 (NOTA RECUPERAÇÃO + MÉDIA DAS NOTAS) / 2 >= 50
 
