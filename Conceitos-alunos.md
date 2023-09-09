@@ -51,6 +51,8 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392310029: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = 27,3 TOTAL A: 87,3) + ((Nota B: 1º Exercício = 23,6 + 2º Exercício = 25,2) + 12,8 + 15 TOTAL B: 76,6). RESULTADO FINAL DAS NOTAS E MÉDIA: (87,3 + 76,6) / 2 = 81,95 APROVADO
 
+EDISON: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = 30. TOTAL A: 70) + ((Nota B: 1º Exercício = 30 + 2º Exercício = 30) + 15 + 15 TOTAL B: 90,0). RESULTADO FINAL DAS NOTAS E MÉDIA:(70 + 90,0) / 2 = 80,0 APROVADO
+
 392000229: NOTA A: 1º Exercício = 40 + 2º Exercício = 20 + 3º Exercício = NÃO ENTREGOU TOTAL A: 60) + ((Nota B: 1º Exercício = 29,6 + 2º Exercício = 27,4) + 12,1 + 15 TOTAL B: 84,0). RESULTADO FINAL DAS NOTAS E MÉDIA: (60 + 84,0) / 2 = 72 APROVADO
 
 392310048: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = 29,7. TOTAL A: 69,7) + ((Nota B: 1º Exercício = 24,9 + 2º Exercício = 25,5) + 12,0 + 13,5 TOTAL B: 75,9). RESULTADO FINAL DAS NOTAS E MÉDIA: (69,7 + 75,9) / 2 = 72,8 APROVADO
@@ -78,7 +80,6 @@ MATRÍCULA: (DESCRIÇÃO NOTA A) + (DESCRIÇÃO NOTA B) e RESULTADO FINAL.
 
 392200161: NOTA A: 1º Exercício = 22 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = NÃO ENTREGOU. TOTAL A: 22) + ((Nota B: 1º Exercício = NÃO ENTREGOU + 2º Exercício = 26.5) + 9,0 + 9,0 TOTAL B: 44,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(22,0 + 44,5) / 2 = 33,25  | NOTA DA RECUPERAÇÃO 67 | MÉDIA FINAL = 67 + 33,25 = *50,1 APROVADO*
 
-EDISON: NOTA A: 1º Exercício = 40 + 2º Exercício = NÃO ENTREGOU + 3º Exercício = 30. TOTAL A: 70) + ((Nota B: 1º Exercício = 30 + 2º Exercício = 30) + 14,5 + 15 TOTAL B: 89,5). RESULTADO FINAL DAS NOTAS E MÉDIA:(70 + 89,5) / 2 = 79,75 APROVADO
 
 Alunos com matrícula 392310032, 392310046, por favor, entre em contato.
 
